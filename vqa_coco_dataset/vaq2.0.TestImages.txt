@@ -1,0 +1,2022 @@
+COCO_val2014_000000262162.jpg#0	Are there any boxes in the room ? no
+COCO_val2014_000000393277.jpg#0	Are there any any tour buses ? no
+COCO_val2014_000000393284.jpg#2	Is this person flying ? no
+COCO_val2014_000000262376.jpg#0	Is this a big building ? yes
+COCO_val2014_000000524611.jpg#0	Could this be parking lot for bikes ? no
+COCO_val2014_000000524621.jpg#0	Is this a man made exhibit ? no
+COCO_val2014_000000524621.jpg#1	Is this a zoo ? no
+COCO_val2014_000000000357.jpg#0	Is this a professional game ? yes
+COCO_val2014_000000262608.jpg#1	Is this a sandwich with a bun ? no
+COCO_val2014_000000131539.jpg#0	Are there any any clouds in the sky ? no
+COCO_val2014_000000131539.jpg#1	Are there any trees visible ? no
+COCO_val2014_000000262651.jpg#1	Could this be leisure boat ? no
+COCO_val2014_000000000520.jpg#0	Could this be high bridge ? no
+COCO_val2014_000000524844.jpg#0	Is this a skate park ? yes
+COCO_val2014_000000000569.jpg#1	Is this a skate park ? no
+COCO_val2014_000000524889.jpg#0	Is this a lonely scene ? no
+COCO_val2014_000000087489.jpg#0	Could this be fire truck ? no
+COCO_val2014_000000131895.jpg#0	Could this be lone zebra ? yes
+COCO_val2014_000000525162.jpg#0	Is this guy in danger ? no
+COCO_val2014_000000132037.jpg#0	Are there any red bricks ? yes
+COCO_val2014_000000525272.jpg#0	Is this a healthy snack ? yes
+COCO_val2014_000000394334.jpg#1	Are there any any donuts in the picture with nuts on top ? yes
+COCO_val2014_000000525646.jpg#0	Is this a pizza ? yes
+COCO_val2014_000000331753.jpg#0	Is this a very crowded bathroom ? no
+COCO_val2014_000000001525.jpg#3	Is this a fenced area ? no
+COCO_val2014_000000371638.jpg#0	Is this a passenger train ? yes
+COCO_val2014_000000526044.jpg#0	Is this a farm ? no
+COCO_val2014_000000001779.jpg#0	Could this be town in California ? yes
+COCO_val2014_000000526091.jpg#0	Could this be recent picture ? no
+COCO_val2014_000000526143.jpg#0	Is this a scene in Africa ? yes
+COCO_val2014_000000526197.jpg#0	Could this be Italian restaurant ? no
+COCO_val2014_000000133042.jpg#0	Could this be professional game ? no
+COCO_val2014_000000133087.jpg#1	Are there any any cars in this photo ? no
+COCO_val2014_000000264161.jpg#0	Is this a females things ? yes
+COCO_val2014_000000264238.jpg#0	Are there any  boats in the water ? no
+COCO_val2014_000000264268.jpg#0	Are there any any clouds in the sky ? no
+COCO_val2014_000000133237.jpg#0	Could this be mother and child ? yes
+COCO_val2014_000000395388.jpg#0	Is this a farm ? yes
+COCO_val2014_000000153288.jpg#0	Is this a costume ? no
+COCO_val2014_000000526536.jpg#0	Could this be pizza for more than one person ? no
+COCO_val2014_000000133476.jpg#0	Is this a meal for an adult ? yes
+COCO_val2014_000000264599.jpg#0	Are there any people visibly walking around ? yes
+COCO_val2014_000000133629.jpg#0	Is this a public place ? no
+COCO_val2014_000000133629.jpg#0	Could this be public place ? no
+COCO_val2014_000000264771.jpg#0	Is this guy standing still ? no
+COCO_val2014_000000395904.jpg#0	Could this be private kitchen ? yes
+COCO_val2014_000000527022.jpg#0	Could this be painting ? yes
+COCO_val2014_000000264909.jpg#0	Is this a black and white photo ? yes
+COCO_val2014_000000527086.jpg#1	Is this a meeting ? yes
+COCO_val2014_000000527086.jpg#1	Could this be meeting ? yes
+COCO_val2014_000000133928.jpg#0	Are there any clouds in the sky ? no
+COCO_val2014_000000265069.jpg#0	Is this gentleman a wannabe biker ? no
+COCO_val2014_000000371864.jpg#0	Could this be metal desk ? no
+COCO_val2014_000000396541.jpg#2	Is this guy playing Angry Birds ? no
+COCO_val2014_000000134649.jpg#1	Could this be public restroom ? no
+COCO_val2014_000000396820.jpg#0	Could this be sunny day ? no
+COCO_val2014_000000527962.jpg#1	Could this be busy street ? no
+COCO_val2014_000000528030.jpg#0	Is this man dressed formal ? yes
+COCO_val2014_000000003793.jpg#0	Is this a tour bus ? no
+COCO_val2014_000000134886.jpg#2	Could this be medical plane ? no
+COCO_val2014_000000134964.jpg#0	Could this be teenager's cake ? no
+COCO_val2014_000000262810.jpg#0	Could this be birthday ? no
+COCO_val2014_000000266151.jpg#0	Could this be tourist railroad ? no
+COCO_val2014_000000135167.jpg#0	Could this be vegetarian dish ? no
+COCO_val2014_000000528496.jpg#0	Could this be messy meal ? yes
+COCO_val2014_000000004212.jpg#0	Is this a driveway ? yes
+COCO_val2014_000000004266.jpg#0	Could this be family outing ? no
+COCO_val2014_000000135399.jpg#0	Is this a buffet ? yes
+COCO_val2014_000000135399.jpg#1	Could this be child's hand ? no
+COCO_val2014_000000266611.jpg#1	Is this a rainy day ? no
+COCO_val2014_000000135561.jpg#3	Could this be nice place ? yes
+COCO_val2014_000000135579.jpg#0	Is this a healthy meal ? yes
+COCO_val2014_000000135579.jpg#0	Could this be healthy meal ? yes
+COCO_val2014_000000135613.jpg#0	Is this a hotel room ? yes
+COCO_val2014_000000397786.jpg#1	Is this a color photo ? yes
+COCO_val2014_000000528875.jpg#0	Is this a Japanese meal ? yes
+COCO_val2014_000000175539.jpg#0	Are there any any trees in the background ? no
+COCO_val2014_000000528972.jpg#0	Could this be refrigerator ? yes
+COCO_val2014_000000266892.jpg#0	Is this lady wearing a skirt that is too short ? no
+COCO_val2014_000000546934.jpg#0	Is this a well lit room ? yes
+COCO_val2014_000000266977.jpg#0	Is this a colorful picture ? no
+COCO_val2014_000000398067.jpg#0	Are there any any towels in this picture ? no
+COCO_val2014_000000350341.jpg#0	Are there any apples on the table ? no
+COCO_val2014_000000219271.jpg#0	Could this be one lane road ? yes
+COCO_val2014_000000136143.jpg#0	Could this be good place for disk golf ? no
+COCO_val2014_000000398423.jpg#0	Is this a professional photo ? no
+COCO_val2014_000000153797.jpg#0	Is this man going to catch the ball ? no
+COCO_val2014_000000529592.jpg#0	Is this man spinning a plate ? no
+COCO_val2014_000000388619.jpg#0	Are there any any baskets on the bikes ? no
+COCO_val2014_000000350416.jpg#0	Is this a safe place to stand ? yes
+COCO_val2014_000000267521.jpg#3	Could this be typical US runway ? yes
+COCO_val2014_000000398652.jpg#0	Could this be botanical garden ? yes
+COCO_val2014_000000005443.jpg#1	Is this guy shopping for shoes ? no
+COCO_val2014_000000568893.jpg#0	Is this a furniture outlet ? no
+COCO_val2014_000000005502.jpg#0	Are there any any people around ? yes
+COCO_val2014_000000267683.jpg#0	Is this a fast food place ? yes
+COCO_val2014_000000267837.jpg#0	Is this a competition ? no
+COCO_val2014_000000530146.jpg#0	Is this a beef sandwich ? yes
+COCO_val2014_000000399212.jpg#0	Could this be luggage bag ? yes
+COCO_val2014_000000006005.jpg#0	Are there any baby giraffes ? yes
+COCO_val2014_000000137185.jpg#0	Could this be professional photo ? no
+COCO_val2014_000000530407.jpg#0	Are there any any birds ? yes
+COCO_val2014_000000175785.jpg#1	Is this a special occasion ? yes
+COCO_val2014_000000006189.jpg#0	Is this gentleman going to eat dinner ? yes
+COCO_val2014_000000399567.jpg#0	Is this a passenger train ? no
+COCO_val2014_000000399567.jpg#0	Could this be passenger train ? no
+COCO_val2014_000000399744.jpg#0	Could this be family gathering ? no
+COCO_val2014_000000399744.jpg#1	Could this be grocery store ? no
+COCO_val2014_000000399744.jpg#2	Is this a modern market ? yes
+COCO_val2014_000000137622.jpg#2	Are there any any vehicles in the photo ? yes
+COCO_val2014_000000137634.jpg#0	Could this be Canadian hydrant ? yes
+COCO_val2014_000000530860.jpg#0	Could this be city street ? yes
+COCO_val2014_000000137727.jpg#0	Are there any any tracks to be seen ? no
+COCO_val2014_000000006688.jpg#0	Could this be forest ? no
+COCO_val2014_000000399968.jpg#0	Is this man in shape ? yes
+COCO_val2014_000000399968.jpg#0	Is this gentleman in shape ? yes
+COCO_val2014_000000531115.jpg#0	Could this be glass dish ? no
+COCO_val2014_000000137954.jpg#0	Are there any women ? no
+COCO_val2014_000000137954.jpg#4	Is this a color photo ? yes
+COCO_val2014_000000138086.jpg#0	Is this a brand new table ? no
+COCO_val2014_000000138086.jpg#0	Could this be brand new table ? no
+COCO_val2014_000000531350.jpg#0	Is this man preparing  for a trip ? no
+COCO_val2014_000000400401.jpg#0	Is this gentleman in a competition ? yes
+COCO_val2014_000000007241.jpg#0	Could this be doughnuts ? yes
+COCO_val2014_000000394460.jpg#0	Could this be cabin ? no
+COCO_val2014_000000531796.jpg#0	Could this be bus station ? yes
+COCO_val2014_000000269721.jpg#0	Is this gentleman talented at tennis ? no
+COCO_val2014_000000269784.jpg#0	Could this be scooter ? yes
+COCO_val2014_000000269815.jpg#0	Is this guy happy ? yes
+COCO_val2014_000000400925.jpg#0	Is this guy wearing glasses ? no
+COCO_val2014_000000138838.jpg#0	Could this be surfer's paradise ? yes
+COCO_val2014_000000269922.jpg#0	Are there any any trees in the picture ? no
+COCO_val2014_000000088695.jpg#0	Could this be digital picture ? no
+COCO_val2014_000000372706.jpg#0	Are there any clouds in the sky ? yes
+COCO_val2014_000000008016.jpg#0	Could this be fighter jet ? yes
+COCO_val2014_000000532403.jpg#0	Is this a comb ? no
+COCO_val2014_000000008218.jpg#0	Is this a tower clock ? yes
+COCO_val2014_000000270420.jpg#0	Are there any any leaves in the picture ? yes
+COCO_val2014_000000008277.jpg#0	Could this be healthy meal ? yes
+COCO_val2014_000000023251.jpg#0	Is this a healthy dinner ? yes
+COCO_val2014_000000532732.jpg#0	Is this a teenager ? yes
+COCO_val2014_000000270593.jpg#0	Are there any any animals on the shore ? yes
+COCO_val2014_000000533026.jpg#0	Could this be kitchen ? no
+COCO_val2014_000000139953.jpg#0	Could this be breakfast meal ? yes
+COCO_val2014_000000402123.jpg#0	Is this a baby elephant ? yes
+COCO_val2014_000000533206.jpg#0	Could this be healthy meal ? no
+COCO_val2014_000000008922.jpg#0	Is this a home kitchen ? yes
+COCO_val2014_000000533276.jpg#0	Could this be recent photograph ? no
+COCO_val2014_000000533281.jpg#0	Is this a restaurant ? yes
+COCO_val2014_000000402233.jpg#2	Is this guy keeping their kitchen tidy ? no
+COCO_val2014_000000533368.jpg#0	Could this be novice skier ? yes
+COCO_val2014_000000140167.jpg#0	Could this be normal size vase of flowers ? yes
+COCO_val2014_000000533464.jpg#0	Is this a recent photo ? yes
+COCO_val2014_000000140435.jpg#0	Could this be high-income neighborhood ? no
+COCO_val2014_000000140435.jpg#1	Could this be mattress ? yes
+COCO_val2014_000000533721.jpg#1	Is this a coffee cup ? no
+COCO_val2014_000000329261.jpg#0	Are there any letters in this image ? no
+COCO_val2014_000000140565.jpg#1	Could this be runway ? yes
+COCO_val2014_000000140582.jpg#0	Could this be bird family ? yes
+COCO_val2014_000000533805.jpg#0	Could this be puzzle ? no
+COCO_val2014_000000525880.jpg#0	Is this guy alive ? no
+COCO_val2014_000000009590.jpg#0	Is this a restaurant ? no
+COCO_val2014_000000140664.jpg#0	Is this a vegetarian meal ? yes
+COCO_val2014_000000271852.jpg#0	Could this be little league game ? no
+COCO_val2014_000000534038.jpg#0	Is this a black and white photo ? yes
+COCO_val2014_000000402971.jpg#0	Is this gentleman using his whole body to throw the ball ? yes
+COCO_val2014_000000402971.jpg#1	Could this be pro game ? yes
+COCO_val2014_000000009801.jpg#0	Could this be newer model car ? no
+COCO_val2014_000000009813.jpg#0	Is this a horse ? yes
+COCO_val2014_000000140908.jpg#0	Is this a beach ? yes
+COCO_val2014_000000534127.jpg#0	Could this be safe sport ? yes
+COCO_val2014_000000272049.jpg#0	Could this be new truck ? yes
+COCO_val2014_000000272097.jpg#0	Could this be suitcase ? yes
+COCO_val2014_000000010123.jpg#0	Could this be professional photograph ? yes
+COCO_val2014_000000534516.jpg#0	Are there any cars on the street ? no
+COCO_val2014_000000534565.jpg#0	Are there any trees visible ? yes
+COCO_val2014_000000010386.jpg#0	Is this guy dressed appropriately for the environment ? no
+COCO_val2014_000000010400.jpg#1	Could this be new building ? no
+COCO_val2014_000000010496.jpg#1	Could this be black and white photo ? no
+COCO_val2014_000000141597.jpg#0	Are there any black vehicles ? yes
+COCO_val2014_000000010591.jpg#0	Could this be beach ? no
+COCO_val2014_000000010785.jpg#0	Is this a heart healthy choice ? yes
+COCO_val2014_000000141910.jpg#1	Is this a designer bathroom ? no
+COCO_val2014_000000010977.jpg#0	Is this a bed ? no
+COCO_val2014_000000404237.jpg#0	Could this be vegan meal ? no
+COCO_val2014_000000142240.jpg#0	Could this be professional kitchen ? no
+COCO_val2014_000000142240.jpg#1	Is this a large kitchen ? no
+COCO_val2014_000000535519.jpg#0	Are there any any cars ? yes
+COCO_val2014_000000535519.jpg#1	Are there any any cars in the scene ? yes
+COCO_val2014_000000404479.jpg#1	Is this a fighter plane ? no
+COCO_val2014_000000273469.jpg#0	Is this a meal for faithful Mormons ? no
+COCO_val2014_000000273493.jpg#1	Could this be double tennis match ? no
+COCO_val2014_000000142774.jpg#0	Could this be small town ? yes
+COCO_val2014_000000404923.jpg#0	Is this man wearing a baseball cap ? yes
+COCO_val2014_000000536038.jpg#1	Is this guy sitting on a sofa ? no
+COCO_val2014_000000273914.jpg#0	Could this be double decker bus ? yes
+COCO_val2014_000000405007.jpg#1	Are there any buses in the street ? no
+COCO_val2014_000000536168.jpg#0	Is this a passenger train ? no
+COCO_val2014_000000143107.jpg#0	Is this woman flying off of a cliff ? no
+COCO_val2014_000000143132.jpg#0	Could this be ride ? yes
+COCO_val2014_000000405279.jpg#1	Is this a summer scene ? no
+COCO_val2014_000000012085.jpg#2	Could this be child's room ? no
+COCO_val2014_000000143217.jpg#0	Is this a freight train ? yes
+COCO_val2014_000000067563.jpg#1	Is this a street cafe ? no
+COCO_val2014_000000274455.jpg#0	Is this guy skateboarding in an allowed area ? yes
+COCO_val2014_000000274455.jpg#1	Is this person active ? yes
+COCO_val2014_000000536791.jpg#0	Could this be college campus ? yes
+COCO_val2014_000000012670.jpg#0	Is this a school picture ? no
+COCO_val2014_000000536990.jpg#0	Is this a color picture ? yes
+COCO_val2014_000000143822.jpg#0	Is this a Wii controller ? yes
+COCO_val2014_000000274939.jpg#0	Could this be rural community ? yes
+COCO_val2014_000000537132.jpg#0	Could this be wine tasting ? yes
+COCO_val2014_000000373539.jpg#0	Could this be gluten free meal ? no
+COCO_val2014_000000013081.jpg#0	Is this a birthday ? no
+COCO_val2014_000000144162.jpg#0	Is this a restaurant ? no
+COCO_val2014_000000275237.jpg#0	Could this be color photograph ? yes
+COCO_val2014_000000275237.jpg#1	Is this a modern train ? no
+COCO_val2014_000000275392.jpg#0	Is this a wild horse ? no
+COCO_val2014_000000406591.jpg#0	Could this be good place for solace ? yes
+COCO_val2014_000000275668.jpg#1	Could this be room in a private home ? no
+COCO_val2014_000000013525.jpg#0	Could this be baby ? no
+COCO_val2014_000000275761.jpg#0	Could this be fighter jet ? yes
+COCO_val2014_000000013639.jpg#0	Is this gentleman getting dressed to play pool ? no
+COCO_val2014_000000406885.jpg#0	Is this a toy train ? yes
+COCO_val2014_000000406899.jpg#0	Are there any purple sand toys ? no
+COCO_val2014_000000144795.jpg#0	Could this be dirt bike ? no
+COCO_val2014_000000144809.jpg#1	Could this be renovation ? no
+COCO_val2014_000000275979.jpg#0	Are there any any scissors in this picture ? yes
+COCO_val2014_000000144935.jpg#1	Could this be river ? no
+COCO_val2014_000000013876.jpg#0	Could this be bench ? yes
+COCO_val2014_000000407180.jpg#0	Are there any any skyscrapers in this scene ? yes
+COCO_val2014_000000276133.jpg#0	Is this a vegan dish ? yes
+COCO_val2014_000000276381.jpg#0	Is this lady alive ? yes
+COCO_val2014_000000276549.jpg#0	Is this a zoo ? yes
+COCO_val2014_000000014450.jpg#0	Is this a railroad track ? yes
+COCO_val2014_000000538775.jpg#0	Are there any persons in the photo ? yes
+COCO_val2014_000000264572.jpg#0	Is this a professional game ? no
+COCO_val2014_000000264572.jpg#0	Could this be professional game ? no
+COCO_val2014_000000014600.jpg#0	Could this be real person ? no
+COCO_val2014_000000276945.jpg#0	Could this be stovetop-oven combo ? yes
+COCO_val2014_000000408112.jpg#1	Is this a Blue Angel aircraft ? no
+COCO_val2014_000000408138.jpg#0	Is this a connect bus ? yes
+COCO_val2014_000000014961.jpg#0	Is this gentleman wearing a suit ? yes
+COCO_val2014_000000408255.jpg#0	Is this gentleman well-groomed ? no
+COCO_val2014_000000408327.jpg#0	Is this person famous ? yes
+COCO_val2014_000000408469.jpg#0	Is this man casting a shadow ? yes
+COCO_val2014_000000539565.jpg#0	Is this a skate park ? yes
+COCO_val2014_000000539565.jpg#0	Could this be skate park ? yes
+COCO_val2014_000000539791.jpg#0	Is this man feeding the pigeons ? yes
+COCO_val2014_000000146601.jpg#0	Is this a factory machine ? yes
+COCO_val2014_000000539971.jpg#0	Could this be place  where animals normally sleep ? yes
+COCO_val2014_000000408950.jpg#0	Is this a rich part of town ? yes
+COCO_val2014_000000015778.jpg#0	Is this person wearing weather protecting gear ? yes
+COCO_val2014_000000015968.jpg#3	Is this person a cook ? no
+COCO_val2014_000000409217.jpg#0	Could this be balanced meal ? yes
+COCO_val2014_000000409291.jpg#0	Could this be professional game ? no
+COCO_val2014_000000147154.jpg#0	Could this be cooking show ? yes
+COCO_val2014_000000409331.jpg#0	Is this person wearing a hat ? yes
+COCO_val2014_000000409331.jpg#0	Is this guy wearing a hat ? yes
+COCO_val2014_000000147309.jpg#0	Is this a fancy desert ? yes
+COCO_val2014_000000278512.jpg#0	Is this a typical US runway ? no
+COCO_val2014_000000540697.jpg#0	Are there any people in this photo ? no
+COCO_val2014_000000409763.jpg#0	Is this gentleman going up to bat ? yes
+COCO_val2014_000000540869.jpg#0	Is this gentleman racing ? no
+COCO_val2014_000000540869.jpg#2	Is this a motorbike race ? no
+COCO_val2014_000000409921.jpg#0	Is this a train ? no
+COCO_val2014_000000016775.jpg#1	Are there any any animals in the picture ? yes
+COCO_val2014_000000410002.jpg#1	Are there any any donuts in the picture with nuts on top ? no
+COCO_val2014_000000147921.jpg#1	Are there any vehicles on the street ? no
+COCO_val2014_000000410101.jpg#0	Is this man about to break out in a dance ? no
+COCO_val2014_000000147958.jpg#0	Is this gentleman skateboarding ? no
+COCO_val2014_000000147980.jpg#0	Could this be team organized game ? no
+COCO_val2014_000000279097.jpg#0	Is this a one way street ? no
+COCO_val2014_000000016958.jpg#0	Is this a bathtub ? no
+COCO_val2014_000000148034.jpg#0	Is this a real animal ? yes
+COCO_val2014_000000279154.jpg#0	Are there any weeds ? yes
+COCO_val2014_000000148197.jpg#0	Are there any sunflowers in one of the bases ? no
+COCO_val2014_000000148272.jpg#0	Is this a domesticated animal ? yes
+COCO_val2014_000000148286.jpg#0	Is this a hut ? no
+COCO_val2014_000000148329.jpg#0	Is this gentleman looking at the camera ? no
+COCO_val2014_000000017272.jpg#0	Is this woman in blue wearing a bikini ? yes
+COCO_val2014_000000017311.jpg#0	Could this be doctor riding on the horse ? no
+COCO_val2014_000000410554.jpg#0	Is this guy a teenager ? no
+COCO_val2014_000000410583.jpg#0	Could this be manual toothbrush ? no
+COCO_val2014_000000148531.jpg#0	Could this be modern plane ? no
+COCO_val2014_000000541926.jpg#0	Is this a dessert ? no
+COCO_val2014_000000410855.jpg#0	Are there any cars on the road ? yes
+COCO_val2014_000000279846.jpg#0	Is this a traditional pizza in the U.S. ? no
+COCO_val2014_000000279887.jpg#1	Are there any any lights on ? yes
+COCO_val2014_000000279940.jpg#0	Is this person about the hit his face on the ground ? yes
+COCO_val2014_000000280007.jpg#1	Is this a church ? no
+COCO_val2014_000000542234.jpg#0	Are there any other birds in the sky ? no
+COCO_val2014_000000411201.jpg#0	Are there any tourists on the bus ? yes
+COCO_val2014_000000411201.jpg#0	Are there any any tourists on the bus ? yes
+COCO_val2014_000000280271.jpg#0	Is this a commercial airline ? no
+COCO_val2014_000000149284.jpg#0	Is this a cake ? yes
+COCO_val2014_000000280360.jpg#0	Is this a passenger plane ? no
+COCO_val2014_000000018295.jpg#1	Is this a passenger train ? yes
+COCO_val2014_000000018295.jpg#2	Is this a change over area for trains ? no
+COCO_val2014_000000411587.jpg#0	Is this a young man ? yes
+COCO_val2014_000000411727.jpg#0	Is this a suitcase ? no
+COCO_val2014_000000411754.jpg#1	Is this gentleman wearing glasses ? yes
+COCO_val2014_000000549224.jpg#1	Could this be white pizza ? yes
+COCO_val2014_000000280705.jpg#0	Is this a study ? no
+COCO_val2014_000000374486.jpg#0	Are there any any trees in the background ? yes
+COCO_val2014_000000149767.jpg#0	Is this a promotional event ? no
+COCO_val2014_000000411941.jpg#0	Is this a large room ? yes
+COCO_val2014_000000018750.jpg#0	Could this be castle ? yes
+COCO_val2014_000000018794.jpg#0	Is this guy skiing ? no
+COCO_val2014_000000543118.jpg#0	Could this be bookstore ? no
+COCO_val2014_000000412094.jpg#0	Is this a small town ? no
+COCO_val2014_000000018918.jpg#0	Are there any any windows in this room ? no
+COCO_val2014_000000018982.jpg#0	Is this gentleman looking at the camera ? yes
+COCO_val2014_000000412204.jpg#0	Are there any any buildings in this picture ? no
+COCO_val2014_000000543385.jpg#0	Are there any any gazelles ? no
+COCO_val2014_000000440093.jpg#0	Is this guy in a skate park ? yes
+COCO_val2014_000000440093.jpg#1	Is this person standing on the ground ? no
+COCO_val2014_000000003192.jpg#0	Could this be vegetarian pizza ? yes
+COCO_val2014_000000003209.jpg#0	Is this a full grown horse ? yes
+COCO_val2014_000000543672.jpg#0	Are there any any glass items in this scene ? yes
+COCO_val2014_000000150508.jpg#0	Could this be double sided bench ? yes
+COCO_val2014_000000150538.jpg#0	Is this man thinking ? yes
+COCO_val2014_000000019484.jpg#1	Are there any any sharp utensils in this photo ? yes
+COCO_val2014_000000544065.jpg#0	Could this be team sport ? yes
+COCO_val2014_000000151075.jpg#0	Is this person wearing a wetsuit ? yes
+COCO_val2014_000000282150.jpg#0	Could this be scooter ? no
+COCO_val2014_000000151084.jpg#0	Is this a beach ? no
+COCO_val2014_000000151084.jpg#0	Could this be beach ? no
+COCO_val2014_000000544432.jpg#0	Could this be large party ? yes
+COCO_val2014_000000151231.jpg#0	Is this a city street ? no
+COCO_val2014_000000020178.jpg#0	Is this guy wearing a backpack ? no
+COCO_val2014_000000413404.jpg#1	Is this a public place ? yes
+COCO_val2014_000000544538.jpg#0	Is this a hotdog place ? yes
+COCO_val2014_000000151334.jpg#1	Are there any any houses in the photo ? no
+COCO_val2014_000000020395.jpg#1	Are there any mountains in the background ? no
+COCO_val2014_000000282553.jpg#0	Could this be natural water source ? no
+COCO_val2014_000000413734.jpg#0	Are there any any vehicles next to the plane ? yes
+COCO_val2014_000000020553.jpg#0	Is this a children's game ? no
+COCO_val2014_000000151657.jpg#0	Is this a military ceremony ? no
+COCO_val2014_000000151657.jpg#0	Could this be military ceremony ? no
+COCO_val2014_000000151742.jpg#0	Is this gentleman famous ? no
+COCO_val2014_000000545002.jpg#2	Is this guy good at skiing ? yes
+COCO_val2014_000000413959.jpg#0	Are there any pigeons in the road ? yes
+COCO_val2014_000000413959.jpg#1	Is this a recent picture ? yes
+COCO_val2014_000000020788.jpg#0	Could this be restaurant ? no
+COCO_val2014_000000545100.jpg#0	Is this man wearing a suit jacket ? yes
+COCO_val2014_000000545114.jpg#0	Could this be secret alien language ? no
+COCO_val2014_000000003480.jpg#0	Could this be herd of wild horses ? no
+COCO_val2014_000000283054.jpg#0	Are there any cars on the road ? no
+COCO_val2014_000000283054.jpg#1	Are there any any people in the photo ? no
+COCO_val2014_000000020912.jpg#0	Is this a storage area ? yes
+COCO_val2014_000000020912.jpg#0	Could this be storage area ? yes
+COCO_val2014_000000021001.jpg#0	Is this a hotel ? yes
+COCO_val2014_000000090884.jpg#0	Is this gentleman engaging in friendly behavior ? yes
+COCO_val2014_000000283168.jpg#0	Could this be healthy meal ? no
+COCO_val2014_000000545353.jpg#0	Is this a restaurant ? no
+COCO_val2014_000000152245.jpg#0	Is this a bus station ? yes
+COCO_val2014_000000152258.jpg#0	Is this a skate park ? no
+COCO_val2014_000000414435.jpg#0	Is this a live person ? no
+COCO_val2014_000000414578.jpg#0	Is this man an experienced skater ? no
+COCO_val2014_000000021394.jpg#0	Could this be standard mode of transportation for these people ? yes
+COCO_val2014_000000021397.jpg#0	Are there any any chips on the plate ? no
+COCO_val2014_000000021400.jpg#0	Are there any any women in the photo ? yes
+COCO_val2014_000000152482.jpg#0	Is this gentleman whispering ? no
+COCO_val2014_000000152530.jpg#1	Is this guy wearing a wetsuit ? yes
+COCO_val2014_000000414711.jpg#0	Could this be standard clock ? yes
+COCO_val2014_000000152618.jpg#0	Is this a neighborhood ? no
+COCO_val2014_000000283748.jpg#0	Are there any clouds ? no
+COCO_val2014_000000152774.jpg#0	Could this be zoo ? yes
+COCO_val2014_000000152886.jpg#0	Could this be colored photo ? no
+COCO_val2014_000000284015.jpg#0	Is this a real photo ? yes
+COCO_val2014_000000546160.jpg#0	Is this a sunny day ? no
+COCO_val2014_000000546160.jpg#1	Is this woman protesting ? no
+COCO_val2014_000000152987.jpg#0	Could this be picture of something outside ? yes
+COCO_val2014_000000415153.jpg#0	Is this a real person ? yes
+COCO_val2014_000000415196.jpg#0	Is this a bathroom ? no
+COCO_val2014_000000415196.jpg#1	Is this a luxury hotel ? no
+COCO_val2014_000000546428.jpg#0	Could this be break room ? no
+COCO_val2014_000000284292.jpg#0	Could this be football ? no
+COCO_val2014_000000546569.jpg#0	Are there any any books in the room ? no
+COCO_val2014_000000022304.jpg#0	Is this gentleman svelte ? no
+COCO_val2014_000000022324.jpg#0	Is this a blurred photo ? no
+COCO_val2014_000000022420.jpg#0	Is this a bookstore ? yes
+COCO_val2014_000000546721.jpg#0	Are there any any yachts in the picture ? no
+COCO_val2014_000000546932.jpg#0	Could this be vegan meal ? no
+COCO_val2014_000000022660.jpg#0	Could this be train station ? yes
+COCO_val2014_000000546965.jpg#0	Is this a car transporter ? yes
+COCO_val2014_000000022842.jpg#1	Is this a vegan dish ? yes
+COCO_val2014_000000022842.jpg#1	Could this be vegan dish ? yes
+COCO_val2014_000000232091.jpg#0	Are there any any carnivores in this shot ? no
+COCO_val2014_000000047588.jpg#0	Could this be passenger train ? yes
+COCO_val2014_000000285568.jpg#0	Is this guy organized ? no
+COCO_val2014_000000154711.jpg#0	Is this a picture ? yes
+COCO_val2014_000000154711.jpg#0	Could this be picture ? yes
+COCO_val2014_000000416862.jpg#0	Could this be lab ? yes
+COCO_val2014_000000023666.jpg#0	Could this be working bathroom ? yes
+COCO_val2014_000000023696.jpg#0	Could this be public restroom ? yes
+COCO_val2014_000000023741.jpg#0	Is this guy racing ? yes
+COCO_val2014_000000286119.jpg#0	Could this be man's hand ? yes
+COCO_val2014_000000155154.jpg#0	Could this be kitchen ? no
+COCO_val2014_000000024112.jpg#0	Is this a house ? no
+COCO_val2014_000000463670.jpg#0	Could this be sad dog ? no
+COCO_val2014_000000548528.jpg#0	Is this a new parking meter ? no
+COCO_val2014_000000548528.jpg#0	Could this be new parking meter ? no
+COCO_val2014_000000155401.jpg#0	Is this a busy area ? no
+COCO_val2014_000000024386.jpg#0	Is this woman pooping ? yes
+COCO_val2014_000000548766.jpg#0	Could this be dog ? no
+COCO_val2014_000000024652.jpg#0	Could this be horse race ? no
+COCO_val2014_000000397327.jpg#0	Could this be very crowded bathroom ? no
+COCO_val2014_000000286858.jpg#0	Is this a mean bear ? no
+COCO_val2014_000000417957.jpg#1	Could this be sunny day at the beach ? no
+COCO_val2014_000000024744.jpg#0	Are there any people at the table ? no
+COCO_val2014_000000024744.jpg#0	Are there any any people at the table ? no
+COCO_val2014_000000417987.jpg#0	Is this a farm ? no
+COCO_val2014_000000549136.jpg#0	Could this be barb wired fence ? yes
+COCO_val2014_000000025034.jpg#1	Is this a lake ? yes
+COCO_val2014_000000418251.jpg#0	Could this be painting ? yes
+COCO_val2014_000000418281.jpg#0	Are there any bulls visible ? yes
+COCO_val2014_000000549384.jpg#0	Is this a bathroom ? yes
+COCO_val2014_000000287305.jpg#0	Could this be parking lot ? no
+COCO_val2014_000000287318.jpg#0	Is this a passenger train ? yes
+COCO_val2014_000000287318.jpg#0	Could this be passenger train ? yes
+COCO_val2014_000000156302.jpg#1	Is this a grocery store ? yes
+COCO_val2014_000000156302.jpg#1	Could this be grocery store ? yes
+COCO_val2014_000000025252.jpg#0	Is this a clock tower ? no
+COCO_val2014_000000156474.jpg#0	Are there any drinks on the desk ? no
+COCO_val2014_000000549718.jpg#0	Is this a double decker ? no
+COCO_val2014_000000025457.jpg#0	Could this be cluttered area ? yes
+COCO_val2014_000000418692.jpg#0	Is this guy sleeping ? no
+COCO_val2014_000000287649.jpg#0	Is this a keyboard ? yes
+COCO_val2014_000000550013.jpg#0	Could this be flying dog ? no
+COCO_val2014_000000528578.jpg#0	Are there any  boats in the water ? yes
+COCO_val2014_000000156834.jpg#0	Could this be racetrack ? no
+COCO_val2014_000000550051.jpg#0	Could this be street cafe ? yes
+COCO_val2014_000000550055.jpg#0	Could this be military plane ? no
+COCO_val2014_000000004296.jpg#0	Could this be happy room ? no
+COCO_val2014_000000550103.jpg#0	Are there any clouds in the sky ? no
+COCO_val2014_000000156935.jpg#0	Could this be professional baseball player ? yes
+COCO_val2014_000000550162.jpg#0	Is this a sanitary work environment ? no
+COCO_val2014_000000288062.jpg#0	Could this be contemporary room ? no
+COCO_val2014_000000025997.jpg#0	Could this be gym ? no
+COCO_val2014_000000419281.jpg#0	Is this a boating dock ? yes
+COCO_val2014_000000288270.jpg#0	Could this be tropical location ? no
+COCO_val2014_000000222828.jpg#0	Could this be baggage claim in an airport ? yes
+COCO_val2014_000000026371.jpg#0	Could this be young dog ? yes
+COCO_val2014_000000026432.jpg#0	Is this a normal place for an umbrella ? yes
+COCO_val2014_000000288584.jpg#0	Could this be real giraffe ? no
+COCO_val2014_000000419777.jpg#0	Is this a safe sport ? no
+COCO_val2014_000000179199.jpg#0	Could this be statue ? yes
+COCO_val2014_000000419859.jpg#0	Could this be singing bird ? yes
+COCO_val2014_000000419859.jpg#2	Is this a blue jay ? no
+COCO_val2014_000000419974.jpg#0	Is this gentleman preparing food for a party ? yes
+COCO_val2014_000000420052.jpg#0	Are there any any cars on the road ? yes
+COCO_val2014_000000572477.jpg#0	Is this gentleman wearing a purple outfit ? no
+COCO_val2014_000000551350.jpg#0	Could this be resting place near a highway ? no
+COCO_val2014_000000568290.jpg#0	Is this a newer bus ? yes
+COCO_val2014_000000158279.jpg#0	Is this person mixing bananas ? yes
+COCO_val2014_000000027326.jpg#0	Could this be vegan meal ? yes
+COCO_val2014_000000420573.jpg#0	Is this a contemporary style building ? no
+COCO_val2014_000000420573.jpg#0	Could this be contemporary style building ? no
+COCO_val2014_000000420579.jpg#0	Is this a busy ski resort ? no
+COCO_val2014_000000420579.jpg#0	Could this be busy ski resort ? no
+COCO_val2014_000000289594.jpg#0	Could this be recent photo ? no
+COCO_val2014_000000288576.jpg#0	Is this man reaching to catch ? no
+COCO_val2014_000000289716.jpg#0	Could this be big dog ? no
+COCO_val2014_000000158660.jpg#0	Is this a vegan meal ? yes
+COCO_val2014_000000551910.jpg#0	Is this a cloudy day ? no
+COCO_val2014_000000201220.jpg#1	Is this a special occasion ? yes
+COCO_val2014_000000551974.jpg#0	Is this lady happy ? yes
+COCO_val2014_000000289855.jpg#0	Are there any palm trees in this picture ? yes
+COCO_val2014_000000420960.jpg#0	Is this a convention ? yes
+COCO_val2014_000000027768.jpg#0	Is this a bus for the public ? yes
+COCO_val2014_000000289943.jpg#0	Could this be German sign ? no
+COCO_val2014_000000158922.jpg#0	Could this be model airplane ? no
+COCO_val2014_000000290002.jpg#0	Are there any any tropical plants in the scene ? yes
+COCO_val2014_000000158999.jpg#0	Are there any any clearings between the trees ? no
+COCO_val2014_000000421209.jpg#0	Is this a major league game ? yes
+COCO_val2014_000000223122.jpg#0	Is this a bathroom in someone's home ? no
+COCO_val2014_000000000939.jpg#0	Could this be hotel bathroom ? yes
+COCO_val2014_000000028236.jpg#0	Could this be train ? yes
+COCO_val2014_000000159449.jpg#0	Is this a modern fridge ? no
+COCO_val2014_000000290602.jpg#0	Are there any trees in this picture ? no
+COCO_val2014_000000028655.jpg#0	Are there any trucks here ? yes
+COCO_val2014_000000159738.jpg#0	Is this a close up picture ? no
+COCO_val2014_000000028682.jpg#1	Is this a gas stove ? no
+COCO_val2014_000000028682.jpg#1	Could this be gas stove ? no
+COCO_val2014_000000290979.jpg#1	Is this guy wearing gloves ? no
+COCO_val2014_000000553221.jpg#1	Could this be water sport ? yes
+COCO_val2014_000000029020.jpg#1	Is this guy wearing a wetsuit ? no
+COCO_val2014_000000553339.jpg#1	Could this be city street ? yes
+COCO_val2014_000000291251.jpg#0	Is this guy athletic ? yes
+COCO_val2014_000000245162.jpg#0	Is this a busy street ? no
+COCO_val2014_000000422432.jpg#0	Could this be real truck ? yes
+COCO_val2014_000000160308.jpg#1	Is this a color photograph ? yes
+COCO_val2014_000000029346.jpg#1	Is this a birthday cake ? yes
+COCO_val2014_000000553669.jpg#0	Is this a nice day ? yes
+COCO_val2014_000000291588.jpg#0	Is this person in pain ? yes
+COCO_val2014_000000291696.jpg#0	Are there any any women on the teams ? no
+COCO_val2014_000000160740.jpg#0	Is this a busy street ? yes
+COCO_val2014_000000029719.jpg#0	Could this be ballerina ? no
+COCO_val2014_000000030080.jpg#0	Could this be military jet ? yes
+COCO_val2014_000000161161.jpg#0	Could this be freight train ? yes
+COCO_val2014_000000161161.jpg#2	Is this a school bus ? no
+COCO_val2014_000000161163.jpg#0	Could this be hotel bathroom ? yes
+COCO_val2014_000000554607.jpg#0	Is this a vegan meal ? no
+COCO_val2014_000000554607.jpg#0	Could this be vegan meal ? no
+COCO_val2014_000000554711.jpg#0	Could this be hotel room ? no
+COCO_val2014_000000554711.jpg#1	Is this lady dressed up to go out ? no
+COCO_val2014_000000030455.jpg#0	Are there any people around ? no
+COCO_val2014_000000030455.jpg#0	Are there any any people around ? no
+COCO_val2014_000000423694.jpg#0	Is this gentleman in an office building ? no
+COCO_val2014_000000161635.jpg#0	Is this a big wave ? no
+COCO_val2014_000000554928.jpg#0	Could this be summer scene ? no
+COCO_val2014_000000292804.jpg#1	Is this a train station ? yes
+COCO_val2014_000000423892.jpg#0	Is this a religious celebration ? no
+COCO_val2014_000000292990.jpg#0	Could this be little league game ? yes
+COCO_val2014_000000292991.jpg#1	Is this a person's home ? no
+COCO_val2014_000000555180.jpg#0	Could this be big train station ? no
+COCO_val2014_000000162067.jpg#0	Is this man an experienced skater ? yes
+COCO_val2014_000000529139.jpg#0	Could this be park ? no
+COCO_val2014_000000162130.jpg#0	Could this be city ? no
+COCO_val2014_000000293218.jpg#0	Could this be commercial airline ? no
+COCO_val2014_000000555412.jpg#0	Could this be veggie pizza ? no
+COCO_val2014_000000162280.jpg#0	Is this a private bath ? yes
+COCO_val2014_000000424502.jpg#0	Could this be Little League game ? no
+COCO_val2014_000000424554.jpg#0	Could this be modern truck ? no
+COCO_val2014_000000424601.jpg#0	Could this be beach ? yes
+COCO_val2014_000000424601.jpg#1	Could this be celebration ? no
+COCO_val2014_000000293591.jpg#0	Could this be zoo ? yes
+COCO_val2014_000000555748.jpg#0	Is this a busy place ? no
+COCO_val2014_000000424812.jpg#1	Is this a healthy pastime ? yes
+COCO_val2014_000000031620.jpg#0	Is this a birthday party ? no
+COCO_val2014_000000424933.jpg#0	Is this a pro baseball player ? no
+COCO_val2014_000000556178.jpg#0	Is this a classroom ? no
+COCO_val2014_000000163167.jpg#2	Is this a kitchen ? yes
+COCO_val2014_000000556426.jpg#0	Is this a bed pillow in the flowered cover ? no
+COCO_val2014_000000556426.jpg#0	Could this be bed pillow in the flowered cover ? no
+COCO_val2014_000000163280.jpg#0	Is this a camera video ? yes
+COCO_val2014_000000163280.jpg#1	Is this a large laptop ? yes
+COCO_val2014_000000032258.jpg#1	Is this gentleman passed out ? yes
+COCO_val2014_000000398604.jpg#0	Is this a healthy meal ? no
+COCO_val2014_000000294541.jpg#0	Is this man para surfing ? yes
+COCO_val2014_000000556726.jpg#0	Are there any any utensils visible ? no
+COCO_val2014_000000032524.jpg#0	Could this be prized possession ? no
+COCO_val2014_000000163600.jpg#0	Is this person wearing a hat ? no
+COCO_val2014_000000294689.jpg#0	Is this a living room ? yes
+COCO_val2014_000000044732.jpg#0	Is this a bird of prey ? no
+COCO_val2014_000000032715.jpg#0	Are there any any clouds in the sky ? no
+COCO_val2014_000000032735.jpg#0	Is this person wearing gloves ? yes
+COCO_val2014_000000442367.jpg#1	Is this a recent picture ? yes
+COCO_val2014_000000032811.jpg#0	Is this a large bird ? no
+COCO_val2014_000000032811.jpg#0	Could this be large bird ? no
+COCO_val2014_000000426061.jpg#0	Is this a passenger train ? no
+COCO_val2014_000000426166.jpg#0	Is this a good day to go bike riding ? yes
+COCO_val2014_000000557324.jpg#0	Could this be Hawaiian pizza ? no
+COCO_val2014_000000033109.jpg#0	Is this a moving truck ? yes
+COCO_val2014_000000033109.jpg#0	Could this be moving truck ? yes
+COCO_val2014_000000557573.jpg#0	Is this a naturally occurring flower ? yes
+COCO_val2014_000000557573.jpg#0	Could this be naturally occurring flower ? yes
+COCO_val2014_000000557785.jpg#0	Is this a sportsman ? no
+COCO_val2014_000000164583.jpg#1	Are there any people in the photo ? no
+COCO_val2014_000000557830.jpg#0	Could this be two player sport ? yes
+COCO_val2014_000000426852.jpg#0	Are there any any flowers in the big vase ? no
+COCO_val2014_000000464366.jpg#0	Is this a baseball game ? yes
+COCO_val2014_000000114861.jpg#0	Could this be full cup of coffee ? no
+COCO_val2014_000000164969.jpg#0	Is this a pizza ? yes
+COCO_val2014_000000427193.jpg#0	Are there any animals on the rocks ? yes
+COCO_val2014_000000267844.jpg#0	Is this a real kitchen ? no
+COCO_val2014_000000296433.jpg#0	Is this a room occupied by someone traveling ? yes
+COCO_val2014_000000296433.jpg#0	Could this be room occupied by someone traveling ? yes
+COCO_val2014_000000558611.jpg#0	Could this be real person ? yes
+COCO_val2014_000000165422.jpg#0	Could this be church ? no
+COCO_val2014_000000296511.jpg#0	Could this be conveyor belt ? yes
+COCO_val2014_000000224200.jpg#0	Could this be tri-colored dog ? no
+COCO_val2014_000000558784.jpg#0	Is this gentleman at the beach ? no
+COCO_val2014_000000165589.jpg#0	Could this be functioning blender ? yes
+COCO_val2014_000000296676.jpg#0	Is this lady wearing shorts ? yes
+COCO_val2014_000000165681.jpg#0	Could this be bike parking zone ? yes
+COCO_val2014_000000427865.jpg#0	Is this a snow scene ? no
+COCO_val2014_000000427876.jpg#0	Is this a cloudy day ? no
+COCO_val2014_000000296816.jpg#0	Is this a zoo ? yes
+COCO_val2014_000000296816.jpg#0	Could this be zoo ? yes
+COCO_val2014_000000427980.jpg#0	Is this lady wearing makeup ? yes
+COCO_val2014_000000559067.jpg#0	Could this be laundry room ? no
+COCO_val2014_000000034922.jpg#0	Are there any reflections in this photo ? yes
+COCO_val2014_000000428248.jpg#0	Is this guy wearing a hat ? yes
+COCO_val2014_000000377231.jpg#0	Are there any predators in this picture ? no
+COCO_val2014_000000297314.jpg#1	Is this a major league team ? yes
+COCO_val2014_000000035210.jpg#0	Is this a muffin ? yes
+COCO_val2014_000000297425.jpg#0	Are there any any animals on the cake ? no
+COCO_val2014_000000297440.jpg#0	Is this a domesticated animal ? yes
+COCO_val2014_000000559707.jpg#0	Is this a large portion of food ? no
+COCO_val2014_000000428658.jpg#0	Is this guy an adult ? no
+COCO_val2014_000000035489.jpg#0	Is this a dog ? yes
+COCO_val2014_000000486521.jpg#0	Could this be modern car ? no
+COCO_val2014_000000559838.jpg#0	Is this a vegan dish ? no
+COCO_val2014_000000166624.jpg#0	Could this be competition ? no
+COCO_val2014_000000428847.jpg#0	Is this a new building ? no
+COCO_val2014_000000428847.jpg#0	Could this be new building ? no
+COCO_val2014_000000552075.jpg#0	Is this a reflection ? yes
+COCO_val2014_000000035694.jpg#0	Could this be vegetarian pizza ? no
+COCO_val2014_000000035711.jpg#0	Is this a zoo ? no
+COCO_val2014_000000035711.jpg#0	Could this be zoo ? no
+COCO_val2014_000000560108.jpg#0	Are there any plants in the pots ? yes
+COCO_val2014_000000035857.jpg#0	Is this a dense area with foliage and trees ? yes
+COCO_val2014_000000035857.jpg#0	Could this be dense area with foliage and trees ? yes
+COCO_val2014_000000166948.jpg#0	Is this person enjoying the conversation ? no
+COCO_val2014_000000035891.jpg#0	Is this a busy street ? no
+COCO_val2014_000000035897.jpg#1	Could this be one way street ? no
+COCO_val2014_000000035897.jpg#2	Is this a surface view angle ? yes
+COCO_val2014_000000429142.jpg#0	Is this man outside ? yes
+COCO_val2014_000000167044.jpg#0	Is this a cake ? no
+COCO_val2014_000000167067.jpg#0	Is this man laughing ? yes
+COCO_val2014_000000429246.jpg#0	Is this woman in blue wearing a bikini ? no
+COCO_val2014_000000298186.jpg#0	Is this a farm ? yes
+COCO_val2014_000000560368.jpg#0	Are there any window coverings in the room ? no
+COCO_val2014_000000560368.jpg#0	Are there any any window coverings in the room ? no
+COCO_val2014_000000093405.jpg#1	Could this be grocery store ? no
+COCO_val2014_000000560440.jpg#0	Could this be remote area ? no
+COCO_val2014_000000429386.jpg#1	Could this be celebration ? no
+COCO_val2014_000000560623.jpg#0	Is this a Highland area ? no
+COCO_val2014_000000429582.jpg#0	Could this be new bear ? yes
+COCO_val2014_000000298649.jpg#0	Is this a coniferous woods ? yes
+COCO_val2014_000000036563.jpg#0	Is this a dance group ? yes
+COCO_val2014_000000167656.jpg#0	Could this be professional game ? yes
+COCO_val2014_000000560879.jpg#0	Is this a good place for solace ? yes
+COCO_val2014_000000298738.jpg#0	Is this a teddy bear ? no
+COCO_val2014_000000298738.jpg#0	Could this be teddy bear ? no
+COCO_val2014_000000036607.jpg#0	Is this a new phone ? no
+COCO_val2014_000000298762.jpg#0	Could this be common animal to ride in the US ? yes
+COCO_val2014_000000167725.jpg#1	Is this a professional game ? yes
+COCO_val2014_000000429985.jpg#0	Is this a celebration ? yes
+COCO_val2014_000000430160.jpg#0	Are there any any onions on one of the sandwiches ? no
+COCO_val2014_000000299089.jpg#0	Could this be zoo ? no
+COCO_val2014_000000561375.jpg#1	Is this a real bear ? no
+COCO_val2014_000000561375.jpg#1	Could this be real bear ? no
+COCO_val2014_000000299254.jpg#0	Is this guy posing for a picture ? yes
+COCO_val2014_000000430341.jpg#0	Is this gentleman playing golf ? no
+COCO_val2014_000000561517.jpg#0	Is this a healthy dish ? no
+COCO_val2014_000000268350.jpg#0	Is this a hotel room ? no
+COCO_val2014_000000430469.jpg#2	Is this a solid meal ? yes
+COCO_val2014_000000568505.jpg#0	Is this a California King size bed ? yes
+COCO_val2014_000000037339.jpg#0	Is this a tree lined street ? yes
+COCO_val2014_000000037678.jpg#0	Could this be bar ? no
+COCO_val2014_000000430989.jpg#0	Is this lady going on a trip ? yes
+COCO_val2014_000000562084.jpg#0	Is this a forest scene ? no
+COCO_val2014_000000431092.jpg#0	Could this be creek ? yes
+COCO_val2014_000000431152.jpg#0	Could this be urban area ? yes
+COCO_val2014_000000431165.jpg#0	Is this a dangerous animal ? no
+COCO_val2014_000000562243.jpg#3	Is this gentleman being silly ? no
+COCO_val2014_000000300138.jpg#0	Could this be tea set ? yes
+COCO_val2014_000000431464.jpg#0	Is this a healthy meal ? yes
+COCO_val2014_000000038276.jpg#0	Is this a child room ? no
+COCO_val2014_000000562614.jpg#0	Could this be professional game ? no
+COCO_val2014_000000431570.jpg#0	Is this gentleman racing a bicycle ? no
+COCO_val2014_000000562875.jpg#0	Could this be color photo ? yes
+COCO_val2014_000000175867.jpg#2	Could this be crowded street ? no
+COCO_val2014_000000431896.jpg#0	Is this a passenger train ? yes
+COCO_val2014_000000169885.jpg#0	Could this be blind taste test ? no
+COCO_val2014_000000432179.jpg#1	Is this a passenger train ? yes
+COCO_val2014_000000432179.jpg#1	Could this be passenger train ? yes
+COCO_val2014_000000432300.jpg#1	Could this be beginner skier ? yes
+COCO_val2014_000000432332.jpg#0	Could this be subway ? yes
+COCO_val2014_000000432429.jpg#0	Is this woman wearing a skirt ? yes
+COCO_val2014_000000170292.jpg#0	Is this a legal tackle ? no
+COCO_val2014_000000563603.jpg#0	Could this be forest ? no
+COCO_val2014_000000432570.jpg#0	Could this be color photo ? no
+COCO_val2014_000000301541.jpg#0	Is this man playing frisbee ? yes
+COCO_val2014_000000563702.jpg#0	Could this be train ? no
+COCO_val2014_000000301563.jpg#0	Could this be ski resort ? yes
+COCO_val2014_000000301581.jpg#0	Is this person snowboarding ? no
+COCO_val2014_000000563730.jpg#0	Could this be specialized instrument for this fruit ? no
+COCO_val2014_000000039472.jpg#0	Could this be real picture ? no
+COCO_val2014_000000093965.jpg#0	Could this be grassy field ? yes
+COCO_val2014_000000039540.jpg#0	Is this a one-dish meal ? yes
+COCO_val2014_000000039540.jpg#0	Could this be one-dish meal ? yes
+COCO_val2014_000000432763.jpg#0	Could this be park ? no
+COCO_val2014_000000039628.jpg#0	Is this a populated area ? no
+COCO_val2014_000000563951.jpg#0	Is this a professional match ? no
+COCO_val2014_000000301817.jpg#1	Could this be medieval building ? no
+COCO_val2014_000000429044.jpg#0	Is this a weekend activity ? yes
+COCO_val2014_000000170852.jpg#0	Is this a clear photo ? no
+COCO_val2014_000000564109.jpg#0	Is this a baby giraffe ? yes
+COCO_val2014_000000302185.jpg#0	Could this be public bathroom ? yes
+COCO_val2014_000000268831.jpg#0	Could this be modern room ? yes
+COCO_val2014_000000171199.jpg#0	Are there any green peppers on the pizza ? yes
+COCO_val2014_000000171241.jpg#0	Is this man jumping ? no
+COCO_val2014_000000302375.jpg#1	Could this be race ? yes
+COCO_val2014_000000433504.jpg#0	Is this a bathroom ? no
+COCO_val2014_000000356241.jpg#0	Is this a sunny day ? yes
+COCO_val2014_000000356261.jpg#0	Could this be wild stallion ? no
+COCO_val2014_000000302716.jpg#0	Is this guy looking for something to eat ? yes
+COCO_val2014_000000302787.jpg#0	Could this be busy street ? yes
+COCO_val2014_000000171740.jpg#0	Could this be basement room ? no
+COCO_val2014_000000433919.jpg#0	Is this a messy bathroom ? yes
+COCO_val2014_000000565230.jpg#0	Could this be commercial plane ? yes
+COCO_val2014_000000041011.jpg#0	Is this a professional equestrian ? yes
+COCO_val2014_000000041077.jpg#0	Is this person higher than the light poles ? no
+COCO_val2014_000000137927.jpg#0	Is this a toilet ? yes
+COCO_val2014_000000172279.jpg#0	Is this person going to fall on their face ? no
+COCO_val2014_000000565563.jpg#0	Could this be new neighborhood ? no
+COCO_val2014_000000041276.jpg#1	Is this a single engine aircraft ? no
+COCO_val2014_000000565571.jpg#0	Is this person skipping ? no
+COCO_val2014_000000565571.jpg#0	Is this guy skipping ? no
+COCO_val2014_000000434511.jpg#0	Are there any any wires on the desk ? yes
+COCO_val2014_000000434511.jpg#3	Is this gentleman in a restaurant ? yes
+COCO_val2014_000000565597.jpg#0	Is this a cheese pizza ? no
+COCO_val2014_000000434527.jpg#0	Is this a family panic ? no
+COCO_val2014_000000303534.jpg#0	Are there any any boxes in the room ? yes
+COCO_val2014_000000172547.jpg#0	Are there any any houses visible ? no
+COCO_val2014_000000565929.jpg#2	Is this a modern building ? no
+COCO_val2014_000000565929.jpg#2	Could this be modern building ? no
+COCO_val2014_000000041773.jpg#0	Is this a city ? no
+COCO_val2014_000000041837.jpg#0	Is this a train station ? no
+COCO_val2014_000000566298.jpg#0	Is this a father and two sons ? yes
+COCO_val2014_000000566436.jpg#0	Could this be memorial bench ? no
+COCO_val2014_000000566456.jpg#0	Could this be modern photo ? yes
+COCO_val2014_000000304316.jpg#0	Is this a safe mode of transport ? yes
+COCO_val2014_000000304316.jpg#0	Could this be safe mode of transport ? yes
+COCO_val2014_000000304342.jpg#0	Is this a fancy restaurant ? yes
+COCO_val2014_000000334713.jpg#0	Could this be city street ? no
+COCO_val2014_000000116261.jpg#0	Are there any any spectators ? yes
+COCO_val2014_000000042225.jpg#0	Could this be collie ? yes
+COCO_val2014_000000566529.jpg#0	Is this man in a hospital ? no
+COCO_val2014_000000435751.jpg#0	Is this a platform for crabs ? no
+COCO_val2014_000000304760.jpg#0	Could this be chair leg ? no
+COCO_val2014_000000173826.jpg#1	Could this be living room ? no
+COCO_val2014_000000173830.jpg#0	Is this person moving ? yes
+COCO_val2014_000000378502.jpg#0	Is this gentleman wearing a helmet ? no
+COCO_val2014_000000334826.jpg#0	Is this a Hawaiian pizza ? no
+COCO_val2014_000000334826.jpg#2	Are there any any spices on the pizza ? yes
+COCO_val2014_000000436138.jpg#0	Is this a mobile home ? no
+COCO_val2014_000000247473.jpg#0	Is this man eating naked ? yes
+COCO_val2014_000000247473.jpg#0	Is this gentleman eating naked ? yes
+COCO_val2014_000000436280.jpg#0	Could this be military plane ? no
+COCO_val2014_000000305253.jpg#0	Is this a sunny day ? yes
+COCO_val2014_000000174198.jpg#0	Could this be steam engine train ? no
+COCO_val2014_000000174258.jpg#0	Are there any any sharp utensils in this photo ? no
+COCO_val2014_000000305412.jpg#0	Could this be sink ? no
+COCO_val2014_000000567562.jpg#0	Could this be restaurant ? no
+COCO_val2014_000000174363.jpg#0	Is this a professional photo ? yes
+COCO_val2014_000000174363.jpg#0	Could this be professional photo ? yes
+COCO_val2014_000000378605.jpg#0	Are there any living creatures in the photo ? no
+COCO_val2014_000000509695.jpg#0	Is this gentleman an experienced frisbee thrower ? yes
+COCO_val2014_000000334941.jpg#0	Is this guy happy to hear from the person communicating with her ? yes
+COCO_val2014_000000305803.jpg#0	Are there any any cars ? no
+COCO_val2014_000000436992.jpg#1	Are there any women in the picture ? no
+COCO_val2014_000000174898.jpg#0	Could this be motorcycle convention ? no
+COCO_val2014_000000568270.jpg#0	Could this be desert ? no
+COCO_val2014_000000568270.jpg#1	Are there any any houses nearby ? no
+COCO_val2014_000000043997.jpg#1	Is this a kitchen ? no
+COCO_val2014_000000043997.jpg#1	Could this be kitchen ? no
+COCO_val2014_000000043997.jpg#2	Could this be public bathroom ? yes
+COCO_val2014_000000437269.jpg#0	Are there any other people on the slope ? no
+COCO_val2014_000000306229.jpg#0	Are there any any clouds in the sky ? yes
+COCO_val2014_000000306230.jpg#1	Is this a busy shopping center ? no
+COCO_val2014_000000437332.jpg#0	Is this man by himself on the street ? yes
+COCO_val2014_000000437351.jpg#0	Is this woman actually traveling ? no
+COCO_val2014_000000051054.jpg#0	Could this be color picture ? no
+COCO_val2014_000000402115.jpg#0	Is this man eating inside of a restaurant ? no
+COCO_val2014_000000306394.jpg#0	Is this man standing on the ground ? no
+COCO_val2014_000000306394.jpg#0	Is this gentleman standing on the ground ? no
+COCO_val2014_000000044261.jpg#0	Could this be deep dish pizza ? no
+COCO_val2014_000000568555.jpg#0	Could this be place for cars ? no
+COCO_val2014_000000306585.jpg#0	Is this person a competitor ? no
+COCO_val2014_000000044579.jpg#0	Is this man married ? no
+COCO_val2014_000000569016.jpg#0	Could this be big plane ? yes
+COCO_val2014_000000175878.jpg#0	Could this be special occasion ? no
+COCO_val2014_000000438093.jpg#0	Could this be healthy meal ? yes
+COCO_val2014_000000438185.jpg#0	Could this be private plane ? yes
+COCO_val2014_000000438304.jpg#0	Is this a recent advert ? no
+COCO_val2014_000000438304.jpg#0	Could this be recent advert ? no
+COCO_val2014_000000045099.jpg#0	Is this a restroom ? yes
+COCO_val2014_000000569432.jpg#1	Is this gentleman riding a skateboard ? yes
+COCO_val2014_000000569450.jpg#0	Could this be gas stove ? no
+COCO_val2014_000000176374.jpg#0	Are there any tour buses ? yes
+COCO_val2014_000000045356.jpg#0	Could this be bouquet of flowers ? yes
+COCO_val2014_000000045392.jpg#0	Is this gentleman a professional ball player ? no
+COCO_val2014_000000569705.jpg#1	Is this a modern airplane ? no
+COCO_val2014_000000438667.jpg#0	Is this a short haired cat ? no
+COCO_val2014_000000045550.jpg#1	Is this gentleman clean shaven ? no
+COCO_val2014_000000045564.jpg#0	Could this be color photograph ? yes
+COCO_val2014_000000045594.jpg#0	Is this a paved road ? yes
+COCO_val2014_000000045627.jpg#1	Is this person falling ? yes
+COCO_val2014_000000045627.jpg#1	Is this guy falling ? yes
+COCO_val2014_000000045648.jpg#0	Are there any birds in the water ? no
+COCO_val2014_000000176799.jpg#0	Are there any graffitis there ? yes
+COCO_val2014_000000176799.jpg#0	Are there any any graffitis there ? yes
+COCO_val2014_000000307892.jpg#0	Could this be busy street ? no
+COCO_val2014_000000422700.jpg#1	Is this a place to get food ? no
+COCO_val2014_000000422700.jpg#1	Could this be place to get food ? no
+COCO_val2014_000000073182.jpg#0	Is this person riding a motorcycle ? yes
+COCO_val2014_000000177015.jpg#0	Is this man wearing a ring ? yes
+COCO_val2014_000000308128.jpg#0	Could this be skating park ? yes
+COCO_val2014_000000439224.jpg#0	Could this be healthy meal ? yes
+COCO_val2014_000000177101.jpg#0	Could this be train station ? no
+COCO_val2014_000000308263.jpg#0	Could this be dairy farm ? no
+COCO_val2014_000000308264.jpg#1	Is this a color photo ? no
+COCO_val2014_000000308264.jpg#1	Could this be color photo ? no
+COCO_val2014_000000308278.jpg#1	Could this be summer scene ? no
+COCO_val2014_000000177246.jpg#0	Could this be whole grain waffle ? no
+COCO_val2014_000000308362.jpg#0	Is this a double decker bus ? no
+COCO_val2014_000000046269.jpg#2	Is this man wearing shorts ? no
+COCO_val2014_000000046269.jpg#2	Is this gentleman wearing shorts ? no
+COCO_val2014_000000400945.jpg#0	Is this a working bathroom ? no
+COCO_val2014_000000308678.jpg#0	Is this a Coast Guard boat ? yes
+COCO_val2014_000000401004.jpg#0	Is this a bar ? yes
+COCO_val2014_000000177802.jpg#2	Are there any plants by the window ? no
+COCO_val2014_000000308974.jpg#0	Are there any clouds ? no
+COCO_val2014_000000160728.jpg#0	Are there any sailing boats in the water ? yes
+COCO_val2014_000000440123.jpg#0	Is this a balanced meal ? no
+COCO_val2014_000000046919.jpg#0	Is this person snowboarding ? no
+COCO_val2014_000000178064.jpg#0	Could this be hotel room ? yes
+COCO_val2014_000000440212.jpg#0	Is this a healthy breakfast ? yes
+COCO_val2014_000000178072.jpg#1	Is this a modern train ? yes
+COCO_val2014_000000047055.jpg#0	Is this a real house ? yes
+COCO_val2014_000000047055.jpg#0	Could this be real house ? yes
+COCO_val2014_000000571364.jpg#0	Are there any toys in the picture ? yes
+COCO_val2014_000000309264.jpg#0	Could this be pet store ? yes
+COCO_val2014_000000440352.jpg#0	Could this be ranch ? no
+COCO_val2014_000000571504.jpg#0	Is this a cloudy day ? no
+COCO_val2014_000000047263.jpg#2	Are there any cars on the street ? yes
+COCO_val2014_000000047263.jpg#2	Are there any any cars on the street ? yes
+COCO_val2014_000000571564.jpg#0	Is this man trying to hit the ball ? no
+COCO_val2014_000000440507.jpg#1	Is this a child's suitcase ? yes
+COCO_val2014_000000571584.jpg#2	Are there any people on the street ? no
+COCO_val2014_000000178370.jpg#1	Is this a plastic box ? no
+COCO_val2014_000000309510.jpg#0	Is this a competition ? yes
+COCO_val2014_000000571764.jpg#0	Could this be house ? yes
+COCO_val2014_000000178691.jpg#0	Are there any street lights ? yes
+COCO_val2014_000000178747.jpg#0	Is this a normal place for a bus to drive ? no
+COCO_val2014_000000571970.jpg#1	Is this man eating ? no
+COCO_val2014_000000309859.jpg#0	Could this be grayscale image ? no
+COCO_val2014_000000572069.jpg#0	Is this a sterile animal ? no
+COCO_val2014_000000179045.jpg#0	Is this a child's room ? yes
+COCO_val2014_000000117237.jpg#0	Could this be garden ? yes
+COCO_val2014_000000008021.jpg#0	Could this be projector ? yes
+COCO_val2014_000000310354.jpg#0	Is this a healthy meal ? no
+COCO_val2014_000000179311.jpg#0	Could this be new plane ? no
+COCO_val2014_000000572592.jpg#3	Are there any any trees ? no
+COCO_val2014_000000310473.jpg#0	Is this a bus only lane ? no
+COCO_val2014_000000048332.jpg#0	Could this be military ceremony ? yes
+COCO_val2014_000000441553.jpg#2	Is this a race ? no
+COCO_val2014_000000310572.jpg#0	Are there any any spices on the table ? no
+COCO_val2014_000000310597.jpg#1	Is this a professional game ? yes
+COCO_val2014_000000466838.jpg#0	Is this a normal size slice of pizza ? yes
+COCO_val2014_000000310796.jpg#0	Is this guy wearing long pants ? no
+COCO_val2014_000000441969.jpg#0	Is this a good store to hide something in ? no
+COCO_val2014_000000311015.jpg#0	Is this gentleman right handed ? no
+COCO_val2014_000000442136.jpg#0	Is this a skinny vehicle ? yes
+COCO_val2014_000000049006.jpg#0	Is this a waiting room ? no
+COCO_val2014_000000049006.jpg#1	Are there any any books in this room ? no
+COCO_val2014_000000049119.jpg#1	Is this a boat harbor ? yes
+COCO_val2014_000000442387.jpg#0	Are there any drinks on the table ? yes
+COCO_val2014_000000442387.jpg#0	Are there any any drinks on the table ? yes
+COCO_val2014_000000311385.jpg#0	Are there any any carrots ? no
+COCO_val2014_000000573536.jpg#1	Could this be family ? no
+COCO_val2014_000000049258.jpg#1	Could this be desktop computer ? no
+COCO_val2014_000000442567.jpg#0	Is this a crowded hill ? no
+COCO_val2014_000000270386.jpg#0	Could this be one way street ? yes
+COCO_val2014_000000573753.jpg#0	Could this be kid's room ? yes
+COCO_val2014_000000573932.jpg#0	Could this be zoo ? yes
+COCO_val2014_000000573932.jpg#1	Are there any fruits on the branches hanging from the tree in front of the giraffe ? no
+COCO_val2014_000000049648.jpg#0	Is this a professional photo ? yes
+COCO_val2014_000000180800.jpg#0	Could this be marketplace ? yes
+COCO_val2014_000000574166.jpg#0	Is this a plastic shower curtain ? no
+COCO_val2014_000000312204.jpg#0	Are there any any baby animals ? no
+COCO_val2014_000000312237.jpg#0	Could this be winter scene ? no
+COCO_val2014_000000050100.jpg#0	Are there any trees in this picture ? yes
+COCO_val2014_000000050100.jpg#0	Are there any any trees in this picture ? yes
+COCO_val2014_000000050238.jpg#0	Is this a car show ? yes
+COCO_val2014_000000050238.jpg#0	Could this be car show ? yes
+COCO_val2014_000000574769.jpg#0	Are there any oranges on the counter ? yes
+COCO_val2014_000000181601.jpg#0	Could this be finch ? yes
+COCO_val2014_000000574837.jpg#0	Could this be menu ? no
+COCO_val2014_000000312803.jpg#1	Is this a policeman ? no
+COCO_val2014_000000312889.jpg#1	Is this gentleman wearing a striped tie ? yes
+COCO_val2014_000000050778.jpg#1	Could this be plane ? no
+COCO_val2014_000000050829.jpg#2	Could this be vegan meal ? no
+COCO_val2014_000000289754.jpg#0	Could this be zoo ? yes
+COCO_val2014_000000051028.jpg#0	Are there any any computers in the room ? yes
+COCO_val2014_000000575441.jpg#0	Is this a houseboat ? no
+COCO_val2014_000000051335.jpg#0	Is this gentleman eating a sandwich ? yes
+COCO_val2014_000000575776.jpg#0	Are there any buildings around ? no
+COCO_val2014_000000313665.jpg#0	Could this be real animal ? yes
+COCO_val2014_000000445512.jpg#0	Is this a scene of a cowboy movie ? yes
+COCO_val2014_000000182736.jpg#0	Is this a sunny day ? yes
+COCO_val2014_000000182736.jpg#0	Could this be sunny day ? yes
+COCO_val2014_000000051685.jpg#0	Are there any clouds in the sky ? no
+COCO_val2014_000000444913.jpg#0	Is this man casually dressed ? yes
+COCO_val2014_000000444913.jpg#0	Is this gentleman casually dressed ? yes
+COCO_val2014_000000182825.jpg#0	Could this be populated area ? yes
+COCO_val2014_000000576052.jpg#0	Is this person looking for someone ? no
+COCO_val2014_000000183393.jpg#0	Could this be bathroom ? yes
+COCO_val2014_000000051887.jpg#1	Is this a parking meter ? no
+COCO_val2014_000000051887.jpg#1	Could this be parking meter ? no
+COCO_val2014_000000445557.jpg#0	Are there any scissors on the table ? yes
+COCO_val2014_000000314192.jpg#0	Is this a Canadian train ? yes
+COCO_val2014_000000576369.jpg#0	Could this be coffee cup ? yes
+COCO_val2014_000000576412.jpg#1	Is this a party for an elderly person ? no
+COCO_val2014_000000576412.jpg#1	Could this be party for an elderly person ? no
+COCO_val2014_000000314294.jpg#0	Could this be zoo ? yes
+COCO_val2014_000000052166.jpg#0	Is this a black and white photo ? no
+COCO_val2014_000000314356.jpg#0	Is this gentleman riding a skateboard ? no
+COCO_val2014_000000576576.jpg#0	Is this a dorm room ? no
+COCO_val2014_000000314515.jpg#0	Is this man riding a ducati ? no
+COCO_val2014_000000183456.jpg#0	Is this a breakfast meal ? no
+COCO_val2014_000000445658.jpg#0	Are there any any magnets on the fridge ? yes
+COCO_val2014_000000576774.jpg#0	Is this a pizza ? no
+COCO_val2014_000000183571.jpg#0	Could this be houseboat ? yes
+COCO_val2014_000000052627.jpg#0	Is this a safe place to stand ? no
+COCO_val2014_000000577161.jpg#1	Is this a hotel room ? no
+COCO_val2014_000000446113.jpg#0	Could this be good area to fly kites ? no
+COCO_val2014_000000053015.jpg#0	Could this be restaurant ? yes
+COCO_val2014_000000315209.jpg#0	Is this a wide angle view ? yes
+COCO_val2014_000000315432.jpg#0	Is this a pond ? no
+COCO_val2014_000000062878.jpg#0	Could this be picture taken recently ? no
+COCO_val2014_000000184384.jpg#0	Is this a fiber-rich food offering ? no
+COCO_val2014_000000184388.jpg#0	Is this a daytime scene ? yes
+COCO_val2014_000000315621.jpg#0	Could this be popular location ? no
+COCO_val2014_000000315631.jpg#0	Could this be fancy restaurant ? no
+COCO_val2014_000000446743.jpg#0	Is this person wearing sneakers ? no
+COCO_val2014_000000446743.jpg#1	Is this a school aged child ? no
+COCO_val2014_000000577893.jpg#0	Could this be clay court ? no
+COCO_val2014_000000183716.jpg#1	Could this be candid photo ? no
+COCO_val2014_000000315909.jpg#0	Could this be modern building ? no
+COCO_val2014_000000446983.jpg#0	Could this be skate park ? no
+COCO_val2014_000000315948.jpg#0	Could this be modern room ? no
+COCO_val2014_000000315991.jpg#0	Are there any any other surfers ? yes
+COCO_val2014_000000447080.jpg#0	Could this be team practicing ? yes
+COCO_val2014_000000333504.jpg#0	Is this a lighthouse ? yes
+COCO_val2014_000000333504.jpg#0	Could this be lighthouse ? yes
+COCO_val2014_000000578454.jpg#0	Are there any windows in this room ? yes
+COCO_val2014_000000578492.jpg#1	Could this be happy occasion ? no
+COCO_val2014_000000316365.jpg#0	Is this a window ? yes
+COCO_val2014_000000140122.jpg#0	Is this a clean desk ? no
+COCO_val2014_000000316596.jpg#0	Could this be healthy snack ? no
+COCO_val2014_000000185590.jpg#0	Are there any any clouds in the sky ? no
+COCO_val2014_000000054533.jpg#0	Is this a television ? no
+COCO_val2014_000000054533.jpg#0	Could this be television ? no
+COCO_val2014_000000316708.jpg#0	Is this a PlayStation ? no
+COCO_val2014_000000578878.jpg#2	Is this man in pain ? no
+COCO_val2014_000000578878.jpg#2	Is this gentleman in pain ? no
+COCO_val2014_000000054654.jpg#0	Is this a fast food place ? no
+COCO_val2014_000000579034.jpg#0	Is this a smartphone ? no
+COCO_val2014_000000054759.jpg#0	Is this a professional tennis player ? yes
+COCO_val2014_000000447978.jpg#0	Is this guy about to fall into the water ? no
+COCO_val2014_000000185850.jpg#0	Is this person wearing a top hat ? yes
+COCO_val2014_000000448078.jpg#0	Could this be candy store ? no
+COCO_val2014_000000185935.jpg#0	Is this a reflection ? no
+COCO_val2014_000000054965.jpg#0	Could this be normal plate ? no
+COCO_val2014_000000448243.jpg#0	Is this a modern car ? no
+COCO_val2014_000000448359.jpg#0	Could this be tennis camp for kids ? no
+COCO_val2014_000000317357.jpg#0	Is this a penknife ? yes
+COCO_val2014_000000055299.jpg#0	Are there any any people in this photo ? no
+COCO_val2014_000000186497.jpg#0	Could this be real giraffe ? yes
+COCO_val2014_000000579814.jpg#0	Is this a commercial airplane ? no
+COCO_val2014_000000579814.jpg#0	Could this be commercial airplane ? no
+COCO_val2014_000000579925.jpg#0	Is this a sold out crowd ? no
+COCO_val2014_000000579925.jpg#1	Is this a major league stadium ? no
+COCO_val2014_000000318039.jpg#0	Could this be zoo ? yes
+COCO_val2014_000000318124.jpg#2	Could this be pizza ? no
+COCO_val2014_000000318138.jpg#0	Is this person sad ? no
+COCO_val2014_000000318171.jpg#0	Could this be zoo scene ? no
+COCO_val2014_000000056036.jpg#0	Are there any slippers on the floor ? no
+COCO_val2014_000000187241.jpg#0	Is this gentleman speaking ? yes
+COCO_val2014_000000449454.jpg#0	Is this a personal sized pizza ? yes
+COCO_val2014_000000449560.jpg#0	Is this gentleman making a dog skateboard ? yes
+COCO_val2014_000000187424.jpg#0	Could this be residential area ? yes
+COCO_val2014_000000318722.jpg#0	Is this a safe place for the cat ? no
+COCO_val2014_000000449872.jpg#2	Are there any traps ? no
+COCO_val2014_000000449990.jpg#0	Could this be modern picture ? no
+COCO_val2014_000000337143.jpg#0	Is this a zoo ? yes
+COCO_val2014_000000187887.jpg#0	Are there any boiled eggs in the container ? no
+COCO_val2014_000000450202.jpg#0	Is this a fancy restaurant ? yes
+COCO_val2014_000000185210.jpg#0	Is this a residential area ? no
+COCO_val2014_000000450400.jpg#0	Is this man standing on asphalt ? yes
+COCO_val2014_000000581496.jpg#0	Is this gentleman young ? no
+COCO_val2014_000000057238.jpg#0	Could this be side by side refrigerator ? no
+COCO_val2014_000000319423.jpg#0	Is this person racing ? yes
+COCO_val2014_000000319423.jpg#0	Is this guy racing ? yes
+COCO_val2014_000000057353.jpg#0	Are there any attendants Seen ? no
+COCO_val2014_000000271712.jpg#0	Could this be conventional bathroom ? yes
+COCO_val2014_000000450695.jpg#1	Is this a steam engine train ? no
+COCO_val2014_000000188613.jpg#0	Are there any beaches on the picture ? yes
+COCO_val2014_000000581887.jpg#0	Is this a driveway ? no
+COCO_val2014_000000188689.jpg#0	Could this be ferry ? no
+COCO_val2014_000000320026.jpg#0	Is this a class ? no
+COCO_val2014_000000451144.jpg#0	Are there any any clouds in the sky ? yes
+COCO_val2014_000000320098.jpg#0	Are there any any snacks ? yes
+COCO_val2014_000000320218.jpg#0	Could this be desert ? no
+COCO_val2014_000000189245.jpg#0	Is this a forested area ? yes
+COCO_val2014_000000189245.jpg#0	Could this be forested area ? yes
+COCO_val2014_000000359238.jpg#0	Is this man comfortable in his chair ? no
+COCO_val2014_000000359238.jpg#0	Is this gentleman comfortable in his chair ? no
+COCO_val2014_000000451501.jpg#0	Could this be new truck ? no
+COCO_val2014_000000189376.jpg#0	Could this be coffee shop with WI-Fi service ? no
+COCO_val2014_000000189446.jpg#1	Could this be healthy meal ? yes
+COCO_val2014_000000451674.jpg#0	Could this be big city ? no
+COCO_val2014_000000451679.jpg#0	Are there any cars in this image ? yes
+COCO_val2014_000000271897.jpg#0	Is this a real kitchen ? no
+COCO_val2014_000000512206.jpg#0	Are there any any butterflies in the photo ? yes
+COCO_val2014_000000320872.jpg#0	Is this a homemade pizza ? yes
+COCO_val2014_000000189811.jpg#0	Is this a healthy meal ? no
+COCO_val2014_000000320893.jpg#0	Could this be densely packed forest ? yes
+COCO_val2014_000000320901.jpg#0	Could this be double decker bus ? no
+COCO_val2014_000000058772.jpg#0	Are there any any people in this photo ? yes
+COCO_val2014_000000452121.jpg#0	Could this be bathroom ? no
+COCO_val2014_000000452137.jpg#0	Could this be child's hand ? no
+COCO_val2014_000000190041.jpg#1	Is this a skate park ? no
+COCO_val2014_000000190041.jpg#1	Could this be skate park ? no
+COCO_val2014_000000190056.jpg#0	Could this be zoo ? yes
+COCO_val2014_000000190095.jpg#2	Could this be normal surfer ? yes
+COCO_val2014_000000321195.jpg#0	Could this be car show ? no
+COCO_val2014_000000059201.jpg#0	Is this woman at a fancy dinner ? no
+COCO_val2014_000000250167.jpg#0	Could this be full bodysuit ? no
+COCO_val2014_000000053569.jpg#0	Is this a fancy house ? no
+COCO_val2014_000000452566.jpg#0	Is this a rainforest ? no
+COCO_val2014_000000097278.jpg#0	Is this guy wearing gloves ? no
+COCO_val2014_000000321543.jpg#0	Could this be vegetarian dish ? no
+COCO_val2014_000000293891.jpg#0	Is this person wearing glasses ? yes
+COCO_val2014_000000190676.jpg#0	Is this guy alive ? yes
+COCO_val2014_000000321846.jpg#0	Could this be dessert ? yes
+COCO_val2014_000000452947.jpg#1	Is this a living room area ? no
+COCO_val2014_000000452947.jpg#1	Could this be living room area ? no
+COCO_val2014_000000453020.jpg#0	Could this be private bathroom ? no
+COCO_val2014_000000322163.jpg#0	Is this person making a giant burrito ? no
+COCO_val2014_000000468777.jpg#0	Is this a bullfrog ? no
+COCO_val2014_000000322361.jpg#0	Could this be beach ? yes
+COCO_val2014_000000060246.jpg#0	Is this a bride and groom ? yes
+COCO_val2014_000000565031.jpg#0	Are there any cars ? no
+COCO_val2014_000000228506.jpg#0	Is this a cat ? yes
+COCO_val2014_000000206705.jpg#0	Could this be hotel setting ? no
+COCO_val2014_000000060596.jpg#0	Could this be hotel ? no
+COCO_val2014_000000060610.jpg#0	Could this be bus stop ? no
+COCO_val2014_000000191949.jpg#0	Is this a well attended event ? no
+COCO_val2014_000000191949.jpg#0	Could this be well attended event ? no
+COCO_val2014_000000192091.jpg#0	Could this be cold atmosphere ? no
+COCO_val2014_000000192091.jpg#1	Could this be ski resort ? no
+COCO_val2014_000000192095.jpg#0	Are there any any fences ? yes
+COCO_val2014_000000192128.jpg#0	Could this be good idea for a rainy day ? yes
+COCO_val2014_000000032038.jpg#0	Could this be berry pie ? no
+COCO_val2014_000000061175.jpg#0	Is this a Little League team ? no
+COCO_val2014_000000061233.jpg#0	Is this guy dropping the item ? yes
+COCO_val2014_000000454562.jpg#0	Is this a soccer match ? no
+COCO_val2014_000000454562.jpg#0	Could this be soccer match ? no
+COCO_val2014_000000323598.jpg#3	Is this a place for children ? no
+COCO_val2014_000000323668.jpg#0	Is this a color picture ? yes
+COCO_val2014_000000323668.jpg#0	Could this be color picture ? yes
+COCO_val2014_000000192809.jpg#0	Is this a celebration ? yes
+COCO_val2014_000000192810.jpg#0	Could this be park ? no
+COCO_val2014_000000192992.jpg#0	Is this a manual toothbrush ? yes
+COCO_val2014_000000193050.jpg#0	Are there any any baby animals in this photo ? yes
+COCO_val2014_000000193245.jpg#0	Is this a campground ? no
+COCO_val2014_000000324340.jpg#0	Is this person wearing a wig ? no
+COCO_val2014_000000062220.jpg#0	Could this be bull ? yes
+COCO_val2014_000000324390.jpg#0	Could this be healthy meal ? yes
+COCO_val2014_000000324390.jpg#2	Are there any eggs ? no
+COCO_val2014_000000324435.jpg#1	Are there any any attendants Seen ? yes
+COCO_val2014_000000399249.jpg#0	Could this be park ? no
+COCO_val2014_000000062491.jpg#0	Is this man taking a selfie ? yes
+COCO_val2014_000000193605.jpg#0	Is this a farmers' market ? no
+COCO_val2014_000000324710.jpg#0	Could this be living room ? no
+COCO_val2014_000000268322.jpg#0	Is this a resort ? yes
+COCO_val2014_000000193884.jpg#0	Are there any any clouds in the sky ? no
+COCO_val2014_000000456184.jpg#0	Is this a garage sale ? no
+COCO_val2014_000000325114.jpg#0	Is this a prison toilet ? no
+COCO_val2014_000000456261.jpg#0	Is this gentleman tall ? yes
+COCO_val2014_000000063144.jpg#0	Is this man doing an extreme sport ? yes
+COCO_val2014_000000010534.jpg#0	Is this lady wearing a dress ? no
+COCO_val2014_000000456695.jpg#0	Is this a functioning blender ? yes
+COCO_val2014_000000456725.jpg#0	Is this a child's picture ? no
+COCO_val2014_000000050125.jpg#0	Could this be safe mode of transport ? yes
+COCO_val2014_000000194729.jpg#0	Are there any bricks in this picture ? yes
+COCO_val2014_000000325991.jpg#2	Is this man happy ? yes
+COCO_val2014_000000390569.jpg#2	Are there any any vehicles on the street ? yes
+COCO_val2014_000000457204.jpg#0	Could this be family ? no
+COCO_val2014_000000534957.jpg#0	Is this a residential scene ? no
+COCO_val2014_000000403919.jpg#1	Are there any people ? no
+COCO_val2014_000000403919.jpg#2	Could this be 4 lane road ? no
+COCO_val2014_000000457449.jpg#0	Are there any unopened envelopes on the desk ? yes
+COCO_val2014_000000064313.jpg#1	Are there any any baby giraffes in this photo ? yes
+COCO_val2014_000000326664.jpg#0	Is this person smiling ? no
+COCO_val2014_000000064523.jpg#0	Is this a tennis team ? yes
+COCO_val2014_000000195685.jpg#0	Is this a car accident ? no
+COCO_val2014_000000064746.jpg#0	Are there any fences in the picture ? no
+COCO_val2014_000000064746.jpg#0	Are there any any fences in the picture ? no
+COCO_val2014_000000196085.jpg#0	Could this be special event ? no
+COCO_val2014_000000327225.jpg#0	Is this a modern train engine ? no
+COCO_val2014_000000327225.jpg#0	Could this be modern train engine ? no
+COCO_val2014_000000196342.jpg#1	Is this a personal bathroom ? yes
+COCO_val2014_000000065357.jpg#0	Is this a toy ? no
+COCO_val2014_000000196490.jpg#0	Is this man racing a bicycle ? no
+COCO_val2014_000000065485.jpg#0	Could this be recreational vehicle ? yes
+COCO_val2014_000000458861.jpg#0	Could this be dangerous activity ? yes
+COCO_val2014_000000196815.jpg#0	Is this a canteen ? no
+COCO_val2014_000000458992.jpg#0	Could this be personal sized pizza ? no
+COCO_val2014_000000469719.jpg#0	Could this be novice skier ? no
+COCO_val2014_000000459034.jpg#1	Is this a typical activity for senior citizens ? no
+COCO_val2014_000000328111.jpg#0	Is this a city ? yes
+COCO_val2014_000000066072.jpg#0	Is this man in open water ? yes
+COCO_val2014_000000459382.jpg#1	Are there any blueberries on the plate ? yes
+COCO_val2014_000000197681.jpg#0	Is this a television ? no
+COCO_val2014_000000066635.jpg#0	Is this a workspace ? yes
+COCO_val2014_000000197749.jpg#0	Are there any any napkins in this photo ? yes
+COCO_val2014_000000459999.jpg#0	Is this a church ? yes
+COCO_val2014_000000328940.jpg#0	Is this a bedroom ? no
+COCO_val2014_000000360660.jpg#0	Could this be vegan dish ? yes
+COCO_val2014_000000460208.jpg#0	Are there any any boxes on the table ? yes
+COCO_val2014_000000198204.jpg#0	Are there any any stoves on the shelf above ? no
+COCO_val2014_000000067180.jpg#0	Is this a famous person ? no
+COCO_val2014_000000460460.jpg#0	Is this a commercial establishment ? no
+COCO_val2014_000000067252.jpg#0	Is this a skate park ? no
+COCO_val2014_000000329568.jpg#0	Could this be display ? yes
+COCO_val2014_000000067427.jpg#0	Could this be professional game ? no
+COCO_val2014_000000198550.jpg#0	Is this a subway type train ? no
+COCO_val2014_000000198550.jpg#1	Is this a passenger train ? no
+COCO_val2014_000000067491.jpg#0	Could this be military plane ? no
+COCO_val2014_000000067558.jpg#0	Is this a shower ? no
+COCO_val2014_000000198635.jpg#0	Is this a healthy breakfast ? yes
+COCO_val2014_000000491872.jpg#0	Is this a toilet ? no
+COCO_val2014_000000360818.jpg#0	Is this a grayscale image ? yes
+COCO_val2014_000000360818.jpg#0	Could this be grayscale image ? yes
+COCO_val2014_000000067788.jpg#1	Is this a stand up paddleboard ? no
+COCO_val2014_000000461036.jpg#0	Could this be chupacabra ? no
+COCO_val2014_000000067823.jpg#0	Could this be specialty store ? yes
+COCO_val2014_000000535608.jpg#0	Are there any any clouds in the sky ? no
+COCO_val2014_000000461254.jpg#0	Could this be fiber-rich food offering ? yes
+COCO_val2014_000000199122.jpg#0	Could this be pro game ? yes
+COCO_val2014_000000199122.jpg#1	Could this be little league game ? no
+COCO_val2014_000000199149.jpg#0	Are there any any trees in the scene ? yes
+COCO_val2014_000000456178.jpg#0	Is this a rural community ? no
+COCO_val2014_000000199553.jpg#0	Is this man dressed for a hockey game ? no
+COCO_val2014_000000461805.jpg#0	Is this a dealership ? no
+COCO_val2014_000000461805.jpg#0	Could this be dealership ? no
+COCO_val2014_000000386279.jpg#0	Is this gentleman wearing shorts ? yes
+COCO_val2014_000000462006.jpg#0	Could this be family panic ? yes
+COCO_val2014_000000199962.jpg#0	Is this gentleman dressed up ? yes
+COCO_val2014_000000331162.jpg#0	Could this be classroom ? yes
+COCO_val2014_000000331180.jpg#0	Is this guy happy ? no
+COCO_val2014_000000281628.jpg#1	Is this gentleman a slut ? yes
+COCO_val2014_000000448426.jpg#0	Could this be cow ? no
+COCO_val2014_000000200381.jpg#0	Is this person wearing a tie ? no
+COCO_val2014_000000200401.jpg#0	Is this a meter ? yes
+COCO_val2014_000000462576.jpg#0	Is this a continental breakfast ? yes
+COCO_val2014_000000470313.jpg#0	Is this a reflection ? yes
+COCO_val2014_000000331600.jpg#0	Is this a intersection ? no
+COCO_val2014_000000069646.jpg#0	Is this gentleman flying ? no
+COCO_val2014_000000200739.jpg#0	Is this a color photo ? no
+COCO_val2014_000000069668.jpg#0	Is this guy a cook ? yes
+COCO_val2014_000000069827.jpg#0	Is this a dump truck ? yes
+COCO_val2014_000000463084.jpg#1	Is this a one way street ? yes
+COCO_val2014_000000448555.jpg#0	Could this be stainless steel fridge ? yes
+COCO_val2014_000000463203.jpg#0	Is this a shopping center ? no
+COCO_val2014_000000463222.jpg#1	Is this a steam engine ? no
+COCO_val2014_000000070020.jpg#0	Is this guy a professional athlete ? yes
+COCO_val2014_000000332205.jpg#1	Is this a truck ? yes
+COCO_val2014_000000201148.jpg#0	Is this a freight train ? no
+COCO_val2014_000000201186.jpg#0	Is this woman playing video games ? no
+COCO_val2014_000000332318.jpg#1	Are there any trees nearby ? yes
+COCO_val2014_000000463628.jpg#0	Is this a human child ? no
+COCO_val2014_000000201561.jpg#0	Is this gentleman going to compete with someone ? no
+COCO_val2014_000000070527.jpg#0	Are there any any beverages here ? yes
+COCO_val2014_000000201637.jpg#1	Could this be funny scene ? no
+COCO_val2014_000000332844.jpg#0	Is this guy wearing any pants ? no
+COCO_val2014_000000332916.jpg#1	Is this a crowded corner ? no
+COCO_val2014_000000332916.jpg#1	Could this be crowded corner ? no
+COCO_val2014_000000464149.jpg#0	Could this be rural area ? no
+COCO_val2014_000000464176.jpg#0	Is this a pedestal sink ? yes
+COCO_val2014_000000202138.jpg#0	Could this be professional flower arrangement ? no
+COCO_val2014_000000071072.jpg#0	Could this be bathroom ? no
+COCO_val2014_000000252147.jpg#0	Could this be cluttered surface ? yes
+COCO_val2014_000000464339.jpg#1	Are there any action figures in the room ? no
+COCO_val2014_000000202228.jpg#0	Is this man taking a picture with a cell phone ? no
+COCO_val2014_000000099242.jpg#0	Is this person racing ? no
+COCO_val2014_000000333321.jpg#0	Could this be stop sign ? no
+COCO_val2014_000000434459.jpg#0	Is this a military event ? yes
+COCO_val2014_000000464522.jpg#0	Could this be wild dog ? no
+COCO_val2014_000000071361.jpg#0	Could this be man-made exhibit ? yes
+COCO_val2014_000000333557.jpg#0	Could this be black and white picture ? no
+COCO_val2014_000000333630.jpg#0	Are there any any women in the photo ? no
+COCO_val2014_000000032932.jpg#0	Is this a commercial kitchen ? no
+COCO_val2014_000000071850.jpg#0	Are there any any animals in this photo ? no
+COCO_val2014_000000334085.jpg#0	Could this be home kitchen ? no
+COCO_val2014_000000334140.jpg#0	Could this be delivery bike ? yes
+COCO_val2014_000000203085.jpg#0	Is this guy actually going to the bathroom ? no
+COCO_val2014_000000072255.jpg#0	Could this be professionally-done photograph ? yes
+COCO_val2014_000000072255.jpg#1	Is this gentleman working ? no
+COCO_val2014_000000294832.jpg#0	Could this be stand up shower ? yes
+COCO_val2014_000000465675.jpg#0	Could this be color photograph ? no
+COCO_val2014_000000203631.jpg#0	Is this person dressed for the weather ? yes
+COCO_val2014_000000072582.jpg#0	Is this a family get together ? yes
+COCO_val2014_000000072582.jpg#1	Are there any any minorities in this picture ? yes
+COCO_val2014_000000465877.jpg#0	Is this guy a cook ? yes
+COCO_val2014_000000203878.jpg#0	Is this man playing tennis ? yes
+COCO_val2014_000000335085.jpg#0	Is this a fridge ? yes
+COCO_val2014_000000335578.jpg#0	Is this lady trying to be sexy ? no
+COCO_val2014_000000073503.jpg#0	Could this be profile picture of their faces ? yes
+COCO_val2014_000000466784.jpg#0	Is this a professionally-done photograph ? no
+COCO_val2014_000000466784.jpg#0	Could this be professionally-done photograph ? no
+COCO_val2014_000000204650.jpg#0	Could this be cold day ? yes
+COCO_val2014_000000467022.jpg#0	Could this be luggage bag ? no
+COCO_val2014_000000467022.jpg#2	Is this a alcohol beverage ? no
+COCO_val2014_000000467135.jpg#1	Is this a breakfast pizza ? no
+COCO_val2014_000000264335.jpg#0	Is this a hawk ? yes
+COCO_val2014_000000336431.jpg#0	Is this a school aged child ? yes
+COCO_val2014_000000336431.jpg#0	Could this be school aged child ? yes
+COCO_val2014_000000336587.jpg#2	Is this a shopping bag ? no
+COCO_val2014_000000205531.jpg#0	Could this be hospital ? no
+COCO_val2014_000000074460.jpg#1	Is this a family of cows ? no
+COCO_val2014_000000074465.jpg#0	Is this a passenger train ? no
+COCO_val2014_000000074465.jpg#0	Could this be passenger train ? no
+COCO_val2014_000000467742.jpg#0	Is this woman married ? yes
+COCO_val2014_000000074583.jpg#0	Could this be mirror reflection ? yes
+COCO_val2014_000000467818.jpg#0	Could this be mother and baby elephant ? yes
+COCO_val2014_000000074603.jpg#0	Could this be fancy restaurant ? no
+COCO_val2014_000000205677.jpg#0	Could this be new building ? no
+COCO_val2014_000000074646.jpg#0	Are there any any sandcastles visible on the beach in this photo ? no
+COCO_val2014_000000467988.jpg#0	Is this a hotel room ? yes
+COCO_val2014_000000205847.jpg#0	Could this be bedroom in a house ? no
+COCO_val2014_000000468078.jpg#1	Is this a mommy ? yes
+COCO_val2014_000000206231.jpg#0	Could this be vigorous action shot ? no
+COCO_val2014_000000206260.jpg#0	Is this a high calorie snack ? yes
+COCO_val2014_000000206356.jpg#0	Is this person at bat ? yes
+COCO_val2014_000000337502.jpg#0	Is this a white pizza ? no
+COCO_val2014_000000206433.jpg#0	Is this gentleman on the right wearing a red neck tie ? yes
+COCO_val2014_000000337619.jpg#1	Could this be skate park ? no
+COCO_val2014_000000075655.jpg#0	Is this person a teenager ? yes
+COCO_val2014_000000075655.jpg#0	Is this guy a teenager ? yes
+COCO_val2014_000000337818.jpg#0	Is this a farmers market ? no
+COCO_val2014_000000337818.jpg#0	Could this be farmers market ? no
+COCO_val2014_000000206757.jpg#0	Is this a residential neighborhood ? no
+COCO_val2014_000000206757.jpg#0	Could this be residential neighborhood ? no
+COCO_val2014_000000468917.jpg#0	Is this a birthday cake ? yes
+COCO_val2014_000000075857.jpg#1	Could this be church ? yes
+COCO_val2014_000000075888.jpg#0	Could this be healthy meal ? yes
+COCO_val2014_000000338105.jpg#0	Are there any any cars shown on the street ? yes
+COCO_val2014_000000569917.jpg#0	Could this be comfortable bathroom setup ? no
+COCO_val2014_000000076034.jpg#0	Could this be yoga position she's trying out ? no
+COCO_val2014_000000207205.jpg#0	Could this be healthy meal ? yes
+COCO_val2014_000000076257.jpg#0	Is this a professional rider ? yes
+COCO_val2014_000000469492.jpg#1	Is this a toy ? no
+COCO_val2014_000000076351.jpg#0	Is this a young animal ? no
+COCO_val2014_000000187495.jpg#0	Could this be bad part of town ? no
+COCO_val2014_000000338607.jpg#0	Is this a real giraffe ? no
+COCO_val2014_000000469795.jpg#1	Could this be poor persons home ? no
+COCO_val2014_000000207797.jpg#0	Is this a zoo ? no
+COCO_val2014_000000207797.jpg#1	Are there any any clouds in the sky ? yes
+COCO_val2014_000000076765.jpg#0	Is this guy wearing flip flops ? yes
+COCO_val2014_000000143901.jpg#0	Is this a wedding ? no
+COCO_val2014_000000339120.jpg#0	Is this a tennis match during the Olympics ? no
+COCO_val2014_000000208169.jpg#0	Are there any any cars ? no
+COCO_val2014_000000339426.jpg#0	Is this a little league game ? no
+COCO_val2014_000000203345.jpg#0	Is this a black and white picture ? no
+COCO_val2014_000000077479.jpg#0	Is this a baby zebra ? no
+COCO_val2014_000000493522.jpg#0	Is this a beautiful zebra ? yes
+COCO_val2014_000000339705.jpg#3	Are there any boomerangs in this picture ? no
+COCO_val2014_000000470780.jpg#0	Is this a gas stove ? yes
+COCO_val2014_000000470909.jpg#1	Could this be restaurant ? no
+COCO_val2014_000000470909.jpg#2	Is this a wine bar ? no
+COCO_val2014_000000339845.jpg#0	Is this a Rube Goldberg project ? no
+COCO_val2014_000000470984.jpg#0	Could this be ski resort ? yes
+COCO_val2014_000000515422.jpg#0	Is this a rural scene ? yes
+COCO_val2014_000000515422.jpg#0	Could this be rural scene ? yes
+COCO_val2014_000000208991.jpg#0	Could this be Middle Eastern town ? yes
+COCO_val2014_000000208991.jpg#1	Are there any cars ? yes
+COCO_val2014_000000208991.jpg#1	Are there any any cars ? yes
+COCO_val2014_000000559136.jpg#0	Is this guy athletic ? yes
+COCO_val2014_000000078266.jpg#0	Is this a kitchen ? yes
+COCO_val2014_000000340472.jpg#1	Is this a harbor ? yes
+COCO_val2014_000000209530.jpg#1	Could this be hotel ? no
+COCO_val2014_000000209570.jpg#0	Is this a chocolate cake ? no
+COCO_val2014_000000340658.jpg#0	Is this person a good surfer ? yes
+COCO_val2014_000000209604.jpg#0	Is this a deli ? no
+COCO_val2014_000000209682.jpg#0	Is this a room in a house ? yes
+COCO_val2014_000000340811.jpg#1	Could this be cold sandwich ? no
+COCO_val2014_000000078707.jpg#1	Could this be family game ? yes
+COCO_val2014_000000515565.jpg#0	Are there any any clouds in the sky ? yes
+COCO_val2014_000000340894.jpg#0	Is this a home office ? yes
+COCO_val2014_000000209829.jpg#1	Is this a sandy beach ? no
+COCO_val2014_000000122354.jpg#0	Is this a retail district ? no
+COCO_val2014_000000340934.jpg#0	Is this a plastic shower curtain ? yes
+COCO_val2014_000000340998.jpg#0	Could this be flower shop ? no
+COCO_val2014_000000078858.jpg#0	Is this a military event ? no
+COCO_val2014_000000472160.jpg#0	Is this a Honda bike ? no
+COCO_val2014_000000209788.jpg#0	Is this a usual placement for traffic light fixtures ? no
+COCO_val2014_000000581205.jpg#0	Are there any any coffee mugs on the table ? yes
+COCO_val2014_000000356169.jpg#0	Is this a paved road ? yes
+COCO_val2014_000000356169.jpg#1	Is this a beautiful scenery ? yes
+COCO_val2014_000000356169.jpg#1	Could this be beautiful scenery ? yes
+COCO_val2014_000000341752.jpg#0	Are there any birds in the sky ? no
+COCO_val2014_000000341828.jpg#1	Could this be modern photo ? no
+COCO_val2014_000000079837.jpg#1	Could this be sailing boat ? yes
+COCO_val2014_000000210920.jpg#0	Is this a book bag ? no
+COCO_val2014_000000079975.jpg#0	Is this gentleman by himself on the street ? no
+COCO_val2014_000000211112.jpg#0	Is this a tidy room ? no
+COCO_val2014_000000211112.jpg#0	Could this be tidy room ? no
+COCO_val2014_000000362869.jpg#0	Is this a new phone ? no
+COCO_val2014_000000211204.jpg#1	Could this be Grizzly Bear ? yes
+COCO_val2014_000000297349.jpg#0	Is this a small airport ? yes
+COCO_val2014_000000080260.jpg#0	Is this a safe way to transport a child ? no
+COCO_val2014_000000342442.jpg#0	Could this be leather suitcase ? yes
+COCO_val2014_000000080303.jpg#0	Is this a farm ? yes
+COCO_val2014_000000211527.jpg#0	Is this a birthday party ? yes
+COCO_val2014_000000342770.jpg#0	Could this be coniferous woods ? yes
+COCO_val2014_000000342819.jpg#0	Could this be resort ? no
+COCO_val2014_000000473896.jpg#1	Could this be clock ? yes
+COCO_val2014_000000450355.jpg#0	Is this person an adult ? yes
+COCO_val2014_000000080834.jpg#0	Is this person sleeping ? no
+COCO_val2014_000000474119.jpg#0	Could this be typical place for a phone ? no
+COCO_val2014_000000343053.jpg#0	Could this be clubhouse ? no
+COCO_val2014_000000474170.jpg#0	Could this be forest ? yes
+COCO_val2014_000000079031.jpg#0	Could this be big wave ? no
+COCO_val2014_000000212261.jpg#0	Could this be restaurant ? yes
+COCO_val2014_000000081224.jpg#0	Could this be horse race ? yes
+COCO_val2014_000000474600.jpg#1	Is this a natural place for the animal to stand ? yes
+COCO_val2014_000000275749.jpg#0	Could this be reflection ? no
+COCO_val2014_000000474906.jpg#6	Are there any parking spots available ? no
+COCO_val2014_000000581615.jpg#0	Is this a kitchen ? no
+COCO_val2014_000000475195.jpg#0	Are there any fruits in the image ? yes
+COCO_val2014_000000475195.jpg#1	Are there any vegetable in the picture ? no
+COCO_val2014_000000475223.jpg#0	Could this be snow scene ? no
+COCO_val2014_000000082052.jpg#0	Could this be woman on a skateboard ? no
+COCO_val2014_000000213224.jpg#0	Are there any any lilies in one of the bases ? yes
+COCO_val2014_000000082157.jpg#2	Is this person wearing a tie ? no
+COCO_val2014_000000082157.jpg#4	Is this person scared ? no
+COCO_val2014_000000079229.jpg#1	Are there any predators in this picture ? no
+COCO_val2014_000000213276.jpg#0	Is this man wearing a suit jacket ? no
+COCO_val2014_000000475439.jpg#0	Is this person over 18 ? no
+COCO_val2014_000000475439.jpg#0	Is this guy over 18 ? no
+COCO_val2014_000000082259.jpg#0	Is this person airborne ? yes
+COCO_val2014_000000344410.jpg#0	Is this man a tennis player ? no
+COCO_val2014_000000082554.jpg#0	Could this be low calorie meal ? no
+COCO_val2014_000000213649.jpg#0	Could this be bus station ? no
+COCO_val2014_000000082662.jpg#0	Could this be new sign ? no
+COCO_val2014_000000213758.jpg#0	Are there any any trees in the background ? no
+COCO_val2014_000000344832.jpg#0	Is this guy ready for the ball ? no
+COCO_val2014_000000487217.jpg#0	Is this a religious place ? yes
+COCO_val2014_000000487217.jpg#0	Could this be religious place ? yes
+COCO_val2014_000000213978.jpg#0	Could this be vintage picture ? no
+COCO_val2014_000000345134.jpg#0	Is this a fancy suitcase ? no
+COCO_val2014_000000214204.jpg#2	Are there any any towels in this bathroom ? no
+COCO_val2014_000000083331.jpg#0	Is this a traffic light ? yes
+COCO_val2014_000000476597.jpg#0	Is this a restaurant ? no
+COCO_val2014_000000345536.jpg#0	Could this be log cabin ? no
+COCO_val2014_000000214492.jpg#0	Could this be black and white photo ? yes
+COCO_val2014_000000214503.jpg#0	Could this be farmers market ? yes
+COCO_val2014_000000214527.jpg#1	Are there any any people next to this building ? yes
+COCO_val2014_000000214574.jpg#0	Could this be family of giraffes ? yes
+COCO_val2014_000000214575.jpg#0	Could this be freight train ? no
+COCO_val2014_000000083614.jpg#1	Could this be keyboard ? yes
+COCO_val2014_000000345849.jpg#0	Could this be playground ? yes
+COCO_val2014_000000345869.jpg#0	Could this be medieval building ? yes
+COCO_val2014_000000363527.jpg#0	Could this be double decker bus ? yes
+COCO_val2014_000000215244.jpg#0	Is this a canteen ? yes
+COCO_val2014_000000477389.jpg#0	Could this be grassy area ? no
+COCO_val2014_000000215376.jpg#0	Is this guy in casual dress ? yes
+COCO_val2014_000000215482.jpg#0	Is this a sport you would play ? no
+COCO_val2014_000000084474.jpg#0	Are there any any clouds in the sky ? no
+COCO_val2014_000000084530.jpg#0	Could this be current photo ? no
+COCO_val2014_000000084533.jpg#2	Could this be common vehicle to see on the street ? yes
+COCO_val2014_000000346702.jpg#0	Is this a kitchen ? yes
+COCO_val2014_000000477805.jpg#0	Is this guy on the ground ? no
+COCO_val2014_000000477805.jpg#1	Is this man in danger of hurting himself ? no
+COCO_val2014_000000477805.jpg#4	Is this guy wearing gloves ? no
+COCO_val2014_000000101491.jpg#0	Is this person traveling somewhere ? yes
+COCO_val2014_000000084664.jpg#0	Is this a balanced meal ? yes
+COCO_val2014_000000084664.jpg#0	Could this be balanced meal ? yes
+COCO_val2014_000000477924.jpg#0	Is this guy a professional speed skier ? no
+COCO_val2014_000000278742.jpg#0	Is this a social gathering ? no
+COCO_val2014_000000084870.jpg#0	Is this a Japanese airplane ? no
+COCO_val2014_000000210761.jpg#0	Are there any tattoos on his right arm ? no
+COCO_val2014_000000478250.jpg#0	Could this be rural area ? yes
+COCO_val2014_000000478250.jpg#1	Is this a one way street ? no
+COCO_val2014_000000478250.jpg#3	Could this be cul de sac ? no
+COCO_val2014_000000347210.jpg#0	Is this a forest ? no
+COCO_val2014_000000478312.jpg#1	Could this be large kitchen ? yes
+COCO_val2014_000000320020.jpg#0	Is this a ferocious dog ? no
+COCO_val2014_000000085145.jpg#0	Is this a fighter jet ? no
+COCO_val2014_000000347377.jpg#0	Is this a Harbor ? no
+COCO_val2014_000000347390.jpg#1	Could this be private residence ? no
+COCO_val2014_000000216516.jpg#0	Is this guy casting a shadow ? yes
+COCO_val2014_000000216695.jpg#0	Could this be bridge ? yes
+COCO_val2014_000000085772.jpg#0	Is this man serving the ball ? no
+COCO_val2014_000000479011.jpg#0	Could this be homemade pizza ? no
+COCO_val2014_000000217156.jpg#1	Is this a large city ? yes
+COCO_val2014_000000479379.jpg#1	Is this gentleman riding a skateboard ? no
+COCO_val2014_000000479440.jpg#1	Is this a short haired cat ? yes
+COCO_val2014_000000479440.jpg#1	Could this be short haired cat ? yes
+COCO_val2014_000000479448.jpg#0	Is this a sandwich ? no
+COCO_val2014_000000448053.jpg#0	Are there any any workers around ? no
+COCO_val2014_000000448053.jpg#1	Could this be construction area ? yes
+COCO_val2014_000000348488.jpg#0	Is this a modern style of painting ? no
+COCO_val2014_000000479617.jpg#3	Are there any any vegetables ? yes
+COCO_val2014_000000086432.jpg#0	Is this a professional game ? no
+COCO_val2014_000000086432.jpg#0	Could this be professional game ? no
+COCO_val2014_000000217546.jpg#0	Could this be large family ? yes
+COCO_val2014_000000086646.jpg#0	Is this a wedding ? yes
+COCO_val2014_000000479912.jpg#0	Could this be sunny day ? yes
+COCO_val2014_000000217783.jpg#0	Is this gentleman catching a plane ? no
+COCO_val2014_000000348877.jpg#0	Is this a vegetarian pizza ? no
+COCO_val2014_000000348941.jpg#0	Is this gentleman married ? yes
+COCO_val2014_000000480021.jpg#0	Is this a photograph ? no
+COCO_val2014_000000480210.jpg#0	Is this a good description of teamwork ? yes
+COCO_val2014_000000480226.jpg#0	Is this a type of dog that should be taken to the groomer's regularly ? yes
+COCO_val2014_000000087393.jpg#0	Is this a Little League game ? no
+COCO_val2014_000000218587.jpg#0	Could this be park entrance ? no
+COCO_val2014_000000349689.jpg#0	Is this a roundabout ? yes
+COCO_val2014_000000349689.jpg#0	Could this be roundabout ? yes
+COCO_val2014_000000538888.jpg#0	Is this a healthy meal ? yes
+COCO_val2014_000000218766.jpg#0	Is this lady over the age of 20 ? yes
+COCO_val2014_000000350023.jpg#0	Could this be harbor ? no
+COCO_val2014_000000350023.jpg#2	Are there any any people in the crosswalk ? no
+COCO_val2014_000000077123.jpg#0	Is this a delta plane ? no
+COCO_val2014_000000481130.jpg#0	Is this a snowy mountain ? no
+COCO_val2014_000000473406.jpg#0	Is this person shorter than 60 inches ? yes
+COCO_val2014_000000219216.jpg#1	Is this a lake ? yes
+COCO_val2014_000000481386.jpg#0	Is this woman dressed to represent another era ? yes
+COCO_val2014_000000350388.jpg#0	Is this a soup ? yes
+COCO_val2014_000000088349.jpg#0	Could this be pizza ? no
+COCO_val2014_000000219546.jpg#0	Is this a healthy breakfast ? no
+COCO_val2014_000000350675.jpg#0	Is this a real photo ? yes
+COCO_val2014_000000350675.jpg#0	Could this be real photo ? yes
+COCO_val2014_000000219676.jpg#0	Is this a Bed and Breakfast ? no
+COCO_val2014_000000219688.jpg#0	Could this be pizza oven ? no
+COCO_val2014_000000219688.jpg#1	Is this a street sign ? yes
+COCO_val2014_000000350789.jpg#0	Could this be zoo ? no
+COCO_val2014_000000350794.jpg#0	Could this be koala bear ? no
+COCO_val2014_000000350833.jpg#0	Could this be big bathroom ? yes
+COCO_val2014_000000350855.jpg#0	Is this a photograph of a painting ? no
+COCO_val2014_000000029397.jpg#0	Is this guy following the sign ? no
+COCO_val2014_000000482297.jpg#0	Is this a kitchen ? no
+COCO_val2014_000000089109.jpg#0	Could this be large bed ? no
+COCO_val2014_000000220224.jpg#0	Could this be very tall building ? yes
+COCO_val2014_000000220255.jpg#0	Could this be private plane ? no
+COCO_val2014_000000089228.jpg#0	Is this man going to eat this entire sandwich ? no
+COCO_val2014_000000482485.jpg#1	Could this be park ? yes
+COCO_val2014_000000482690.jpg#0	Is this a skate park ? yes
+COCO_val2014_000000220607.jpg#0	Is this a place for shopping ? no
+COCO_val2014_000000220621.jpg#0	Is this a common color for a hydrant ? yes
+COCO_val2014_000000220670.jpg#0	Is this a vegetarian pizza ? yes
+COCO_val2014_000000089670.jpg#0	Could this be hamburger ? no
+COCO_val2014_000000482978.jpg#0	Is this a freight train ? no
+COCO_val2014_000000089781.jpg#0	Is this a healthy meal ? no
+COCO_val2014_000000352005.jpg#0	Is this man bald ? no
+COCO_val2014_000000483179.jpg#0	Is this a gas station bathroom ? no
+COCO_val2014_000000352478.jpg#0	Is this a farmers market ? yes
+COCO_val2014_000000090640.jpg#0	Is this a recent picture ? no
+COCO_val2014_000000221725.jpg#0	Could this be TV ? yes
+COCO_val2014_000000352936.jpg#0	Is this a crow ? yes
+COCO_val2014_000000352949.jpg#0	Is this a live person ? yes
+COCO_val2014_000000015157.jpg#1	Is this a 4 way stop ? no
+COCO_val2014_000000173245.jpg#0	Is this gentleman riding on skis ? no
+COCO_val2014_000000315722.jpg#0	Could this be Chicago-style pizza ? yes
+COCO_val2014_000000315722.jpg#1	Is this a one-dish meal ? yes
+COCO_val2014_000000353148.jpg#1	Could this be class photo ? no
+COCO_val2014_000000222094.jpg#0	Is this a truck repair shop ? no
+COCO_val2014_000000222261.jpg#0	Is this a photo of your backyard ? no
+COCO_val2014_000000222261.jpg#0	Could this be photo of your backyard ? no
+COCO_val2014_000000222370.jpg#0	Is this a color photo ? yes
+COCO_val2014_000000222370.jpg#3	Is this man driving on a road ? yes
+COCO_val2014_000000222370.jpg#3	Is this gentleman driving on a road ? yes
+COCO_val2014_000000353446.jpg#0	Could this be beach ? yes
+COCO_val2014_000000353489.jpg#0	Could this be high speed train ? yes
+COCO_val2014_000000222735.jpg#0	Is this a TV ? yes
+COCO_val2014_000000353836.jpg#0	Is this a food truck ? yes
+COCO_val2014_000000353836.jpg#0	Could this be food truck ? yes
+COCO_val2014_000000222781.jpg#0	Are there any girls ? yes
+COCO_val2014_000000353964.jpg#0	Is this a commercial airliner ? yes
+COCO_val2014_000000222908.jpg#0	Could this be house ? yes
+COCO_val2014_000000354121.jpg#0	Could this be reflection of stop sign ? no
+COCO_val2014_000000485294.jpg#0	Could this be child's bed ? no
+COCO_val2014_000000223241.jpg#5	Could this be bachelor pad ? no
+COCO_val2014_000000223241.jpg#8	Is this gentleman considered a nerd ? no
+COCO_val2014_000000223243.jpg#0	Could this be professional game ? yes
+COCO_val2014_000000223342.jpg#0	Is this a junk truck ? no
+COCO_val2014_000000223444.jpg#0	Could this be home office ? yes
+COCO_val2014_000000354540.jpg#0	Could this be fire risk ? yes
+COCO_val2014_000000485773.jpg#0	Is this a church tower ? no
+COCO_val2014_000000485844.jpg#4	Could this be modern kitchen ? no
+COCO_val2014_000000486457.jpg#0	Could this be birthday party ? yes
+COCO_val2014_000000093411.jpg#1	Is this a passenger plane ? yes
+COCO_val2014_000000486770.jpg#0	Is this a commercial kitchen ? no
+COCO_val2014_000000355956.jpg#0	Could this be pro game ? no
+COCO_val2014_000000356043.jpg#0	Is this person wearing a tie ? yes
+COCO_val2014_000000225129.jpg#0	Are there any vegetable in the picture ? yes
+COCO_val2014_000000094194.jpg#1	Could this be lunch buffet ? no
+COCO_val2014_000000487428.jpg#0	Are there any any buses in the picture ? yes
+COCO_val2014_000000356505.jpg#0	Is this lady black ? no
+COCO_val2014_000000225565.jpg#0	Could this be healthy snack ? no
+COCO_val2014_000000487722.jpg#0	Is this a garage ? no
+COCO_val2014_000000356708.jpg#0	Is this person wearing gloves ? yes
+COCO_val2014_000000225786.jpg#0	Is this guy about to fall over ? no
+COCO_val2014_000000225792.jpg#0	Is this a demonstration ? yes
+COCO_val2014_000000356906.jpg#0	Could this be junk yard ? no
+COCO_val2014_000000094795.jpg#0	Is this a beach ? yes
+COCO_val2014_000000357024.jpg#0	Is this a restroom ? no
+COCO_val2014_000000094944.jpg#0	Is this gentleman having fun ? yes
+COCO_val2014_000000095078.jpg#0	Could this be foot long ? yes
+COCO_val2014_000000226154.jpg#1	Could this be single level bus ? yes
+COCO_val2014_000000226173.jpg#0	Is this a young man ? no
+COCO_val2014_000000357385.jpg#1	Is this person wearing glasses ? yes
+COCO_val2014_000000226346.jpg#0	Could this be mall ? yes
+COCO_val2014_000000095297.jpg#0	Is this man eating cheese pizza ? yes
+COCO_val2014_000000226377.jpg#0	Is this person wearing sunglasses ? yes
+COCO_val2014_000000488571.jpg#0	Is this a flower shop ? no
+COCO_val2014_000000095375.jpg#0	Are there any clouds in the sky ? yes
+COCO_val2014_000000226571.jpg#0	Are there any sailboats in this picture ? yes
+COCO_val2014_000000226634.jpg#1	Could this be homestead ? no
+COCO_val2014_000000226634.jpg#3	Are there any cars visible ? yes
+COCO_val2014_000000488832.jpg#0	Is this a hot dog ? no
+COCO_val2014_000000488869.jpg#0	Could this be professional team ? yes
+COCO_val2014_000000488915.jpg#0	Is this guy at a concert ? no
+COCO_val2014_000000357903.jpg#0	Could this be healthy dinner ? yes
+COCO_val2014_000000226984.jpg#0	Is this a model kitchen ? no
+COCO_val2014_000000016025.jpg#0	Is this person into the most modern of electronics ? no
+COCO_val2014_000000358399.jpg#0	Are there any any children in this picture ? yes
+COCO_val2014_000000147236.jpg#0	Is this a motorcycle store ? no
+COCO_val2014_000000227399.jpg#0	Is this a real train ? no
+COCO_val2014_000000358494.jpg#1	Are there any any houses in the photo ? yes
+COCO_val2014_000000489616.jpg#0	Is this a windy day ? no
+COCO_val2014_000000358596.jpg#0	Could this be skate park ? yes
+COCO_val2014_000000182167.jpg#0	Could this be skate park ? no
+COCO_val2014_000000358901.jpg#0	Is this a familiar vehicle in the neighborhood ? yes
+COCO_val2014_000000169045.jpg#0	Could this be good dessert ? yes
+COCO_val2014_000000359043.jpg#0	Could this be foreign country ? yes
+COCO_val2014_000000097131.jpg#0	Could this be race car ? no
+COCO_val2014_000000359276.jpg#0	Is this a two way street ? no
+COCO_val2014_000000097230.jpg#0	Is this a zoo ? no
+COCO_val2014_000000097230.jpg#0	Could this be zoo ? no
+COCO_val2014_000000359465.jpg#0	Are there any any houses near this body of water ? no
+COCO_val2014_000000097434.jpg#1	Is this guy in some sort of trouble ? yes
+COCO_val2014_000000228580.jpg#0	Is this man skiing ? no
+COCO_val2014_000000359715.jpg#0	Could this be type of campground ? no
+COCO_val2014_000000097599.jpg#0	Could this be modern train ? no
+COCO_val2014_000000490842.jpg#0	Could this be plain cheese pizza ? yes
+COCO_val2014_000000343951.jpg#0	Is this a new boat ? no
+COCO_val2014_000000256577.jpg#0	Is this man standing upright ? no
+COCO_val2014_000000490890.jpg#0	Could this be tower clock ? yes
+COCO_val2014_000000097693.jpg#0	Is this a clean room ? yes
+COCO_val2014_000000490923.jpg#0	Is this woman using too much toothpaste ? yes
+COCO_val2014_000000228825.jpg#0	Could this be computer screen ? no
+COCO_val2014_000000491008.jpg#0	Is this a whole pizza ? yes
+COCO_val2014_000000491008.jpg#1	Could this be restaurant ? yes
+COCO_val2014_000000228867.jpg#0	Is this a tour group ? yes
+COCO_val2014_000000191069.jpg#0	Could this be flip phone ? no
+COCO_val2014_000000491062.jpg#0	Are there any tomatoes on the plate ? yes
+COCO_val2014_000000229067.jpg#0	Is this a beginner's class ? yes
+COCO_val2014_000000360175.jpg#0	Could this be family portrait ? no
+COCO_val2014_000000491366.jpg#0	Could this be built-in TV ? no
+COCO_val2014_000000360346.jpg#0	Is this a passenger plane ? no
+COCO_val2014_000000360613.jpg#0	Could this be clip on tie ? no
+COCO_val2014_000000360624.jpg#0	Are there any any children in this picture ? no
+COCO_val2014_000000360629.jpg#0	Is this a traditional breakfast ? no
+COCO_val2014_000000098493.jpg#0	Could this be bus stop ? no
+COCO_val2014_000000352445.jpg#1	Is this a shop ? yes
+COCO_val2014_000000360877.jpg#0	Are there any any other people present ? yes
+COCO_val2014_000000360899.jpg#0	Is this a recent photo ? no
+COCO_val2014_000000492067.jpg#0	Is this man catching a plane ? no
+COCO_val2014_000000098881.jpg#0	Could this be recent photo ? no
+COCO_val2014_000000361073.jpg#0	Is this a train ? no
+COCO_val2014_000000361073.jpg#0	Could this be train ? no
+COCO_val2014_000000361123.jpg#0	Is this a cold-weather animal ? no
+COCO_val2014_000000492246.jpg#0	Is this woman transgender ? no
+COCO_val2014_000000361244.jpg#0	Could this be wooden horse ? yes
+COCO_val2014_000000099186.jpg#1	Could this be country road ? yes
+COCO_val2014_000000361399.jpg#0	Is this person about to fall ? no
+COCO_val2014_000000492625.jpg#1	Could this be wine tasting session ? no
+COCO_val2014_000000099416.jpg#0	Is this a Chinese girl ? no
+COCO_val2014_000000099540.jpg#0	Could this be construction truck ? yes
+COCO_val2014_000000230721.jpg#0	Are there any persons in the photo ? no
+COCO_val2014_000000099741.jpg#0	Are there any people around ? no
+COCO_val2014_000000361901.jpg#0	Could this be vegan meal ? no
+COCO_val2014_000000230877.jpg#0	Is this man wearing a wetsuit ? no
+COCO_val2014_000000099810.jpg#0	Could this be celebration ? no
+COCO_val2014_000000493117.jpg#0	Is this a rural area ? yes
+COCO_val2014_000000362092.jpg#0	Are there any any clouds in the sky ? no
+COCO_val2014_000000493174.jpg#0	Could this be professional match ? yes
+COCO_val2014_000000493321.jpg#0	Could this be rainy day ? yes
+COCO_val2014_000000362343.jpg#0	Could this be working airport ? no
+COCO_val2014_000000362409.jpg#0	Is this person athletic ? yes
+COCO_val2014_000000362483.jpg#0	Is this a new bear ? no
+COCO_val2014_000000493612.jpg#0	Is this a cow herd ? yes
+COCO_val2014_000000493623.jpg#0	Is this a beauty salon ? no
+COCO_val2014_000000362779.jpg#0	Are there any any power outlets ? yes
+COCO_val2014_000000562906.jpg#0	Is this a pita bread ? no
+COCO_val2014_000000235244.jpg#0	Are there any carrots on the plate ? no
+COCO_val2014_000000100848.jpg#0	Is this a common living room ? yes
+COCO_val2014_000000231945.jpg#0	Is this gentleman parasailing ? no
+COCO_val2014_000000191580.jpg#0	Is this a healthy meal ? yes
+COCO_val2014_000000191580.jpg#0	Could this be healthy meal ? yes
+COCO_val2014_000000060515.jpg#1	Is this person hard at work ? no
+COCO_val2014_000000100978.jpg#0	Could this be rural area ? no
+COCO_val2014_000000363126.jpg#0	Is this guy wearing warm clothes ? no
+COCO_val2014_000000101031.jpg#0	Could this be color photo ? yes
+COCO_val2014_000000101031.jpg#1	Could this be black and white photo ? no
+COCO_val2014_000000232185.jpg#0	Could this be professional baseball player ? no
+COCO_val2014_000000363280.jpg#0	Could this be public place ? yes
+COCO_val2014_000000519330.jpg#0	Could this be formal event ? yes
+COCO_val2014_000000101473.jpg#0	Could this be closed phone ? no
+COCO_val2014_000000232598.jpg#0	Is this gentleman wearing a collared shirt ? yes
+COCO_val2014_000000363673.jpg#0	Are there any any women playing tennis ? yes
+COCO_val2014_000000101535.jpg#0	Could this be diluted cocktail ? no
+COCO_val2014_000000232610.jpg#0	Is this person happy ? yes
+COCO_val2014_000000495054.jpg#1	Is this a 'Hello Kitty' airplane ? no
+COCO_val2014_000000495156.jpg#0	Could this be beach ? no
+COCO_val2014_000000364145.jpg#0	Is this a romantic sunset ? no
+COCO_val2014_000000364157.jpg#0	Is this a hotel ? no
+COCO_val2014_000000410221.jpg#0	Could this be painting ? no
+COCO_val2014_000000410221.jpg#1	Could this be color photo ? yes
+COCO_val2014_000000233298.jpg#0	Could this be fighter jet ? no
+COCO_val2014_000000233311.jpg#0	Is this a gift for someone ? yes
+COCO_val2014_000000364665.jpg#0	Is this a home kitchen ? yes
+COCO_val2014_000000364665.jpg#0	Could this be home kitchen ? yes
+COCO_val2014_000000233830.jpg#0	Is this a healthy meal ? yes
+COCO_val2014_000000102858.jpg#1	Are there any bricks in this picture ? yes
+COCO_val2014_000000102858.jpg#1	Are there any any bricks in this picture ? yes
+COCO_val2014_000000102872.jpg#0	Is this a happy occasion ? yes
+COCO_val2014_000000496099.jpg#0	Is this a formal dining room ? no
+COCO_val2014_000000102908.jpg#0	Could this be color picture ? no
+COCO_val2014_000000365099.jpg#0	Is this man in a competition ? no
+COCO_val2014_000000365168.jpg#0	Is this a normal pasta dish ? yes
+COCO_val2014_000000365168.jpg#0	Could this be normal pasta dish ? yes
+COCO_val2014_000000103134.jpg#0	Is this a normal bathroom ? no
+COCO_val2014_000000557731.jpg#0	Could this be pizza on the cutting board ? yes
+COCO_val2014_000000496450.jpg#0	Is this a jungle ? no
+COCO_val2014_000000151832.jpg#0	Could this be guest bathroom ? yes
+COCO_val2014_000000496554.jpg#1	Are there any clouds in the sky ? yes
+COCO_val2014_000000234518.jpg#1	Could this be kite ? no
+COCO_val2014_000000243495.jpg#0	Is this a ladies' restroom ? yes
+COCO_val2014_000000496800.jpg#0	Could this be passenger train ? no
+COCO_val2014_000000234697.jpg#0	Is this a clear night ? no
+COCO_val2014_000000497021.jpg#1	Is this a beach ? no
+COCO_val2014_000000103837.jpg#0	Could this be wild horse ? no
+COCO_val2014_000000234910.jpg#0	Could this be busy shopping center ? yes
+COCO_val2014_000000103863.jpg#1	Could this be real life kitchen ? no
+COCO_val2014_000000234938.jpg#0	Are there any trees visible ? yes
+COCO_val2014_000000366099.jpg#0	Could this be vegetarian pizza ? yes
+COCO_val2014_000000366178.jpg#0	Is this a one way street ? yes
+COCO_val2014_000000279490.jpg#2	Is this a fancy desert ? yes
+COCO_val2014_000000497348.jpg#0	Is this a city street ? no
+COCO_val2014_000000104166.jpg#0	Is this a professional athlete ? yes
+COCO_val2014_000000235242.jpg#0	Could this be steam engine ? no
+COCO_val2014_000000235319.jpg#0	Is this man holding an item you would typically bring to the beach ? yes
+COCO_val2014_000000235380.jpg#0	Could this be modern-day scene ? no
+COCO_val2014_000000104345.jpg#0	Are there any any windows ? no
+COCO_val2014_000000214007.jpg#0	Is this a new kitchen ? no
+COCO_val2014_000000366576.jpg#0	Is this a circus ? no
+COCO_val2014_000000410641.jpg#1	Is this a cake ? yes
+COCO_val2014_000000497825.jpg#0	Is this gentleman wearing a spotted tie ? yes
+COCO_val2014_000000104612.jpg#0	Could this be vegetarian dish ? yes
+COCO_val2014_000000020947.jpg#0	Is this a brand new truck ? no
+COCO_val2014_000000235914.jpg#1	Are there any any people around ? no
+COCO_val2014_000000235964.jpg#0	Is this woman holding up a camera ? yes
+COCO_val2014_000000498120.jpg#0	Could this be colorful bus ? no
+COCO_val2014_000000105053.jpg#0	Is this gentleman upside down ? no
+COCO_val2014_000000498319.jpg#0	Is this a regular kitchen ? no
+COCO_val2014_000000345211.jpg#0	Is this a color photograph ? no
+COCO_val2014_000000236272.jpg#0	Could this be professional game ? yes
+COCO_val2014_000000236308.jpg#0	Could this be calming scene ? yes
+COCO_val2014_000000236338.jpg#0	Is this a stampede ? no
+COCO_val2014_000000236338.jpg#0	Could this be stampede ? no
+COCO_val2014_000000498489.jpg#0	Are there any any pets in the room ? yes
+COCO_val2014_000000236370.jpg#0	Could this be room in a church ? no
+COCO_val2014_000000236412.jpg#0	Is this a veggie pizza ? no
+COCO_val2014_000000498627.jpg#0	Is this person an amateur ? no
+COCO_val2014_000000367619.jpg#0	Could this be cream cake ? yes
+COCO_val2014_000000105683.jpg#0	Is this a hotel room ? no
+COCO_val2014_000000105734.jpg#0	Could this be ski lodge ? no
+COCO_val2014_000000236845.jpg#0	Could this be busy street ? yes
+COCO_val2014_000000499109.jpg#0	Is this a big sandwich ? yes
+COCO_val2014_000000236985.jpg#0	Is this a bakery ? yes
+COCO_val2014_000000236985.jpg#0	Could this be bakery ? yes
+COCO_val2014_000000237041.jpg#0	Could this be painting ? yes
+COCO_val2014_000000499198.jpg#0	Is this person a good surfer ? yes
+COCO_val2014_000000106048.jpg#0	Could this be private residence ? no
+COCO_val2014_000000237350.jpg#0	Is this lady happy ? no
+COCO_val2014_000000499537.jpg#0	Is this a 4-way stop ? no
+COCO_val2014_000000106335.jpg#0	Could this be picture of a rural area ? no
+COCO_val2014_000000237459.jpg#0	Is this a memorial ? no
+COCO_val2014_000000237459.jpg#0	Could this be memorial ? no
+COCO_val2014_000000499622.jpg#0	Is this a policeman ? yes
+COCO_val2014_000000106453.jpg#0	Is this a hotel beach ? no
+COCO_val2014_000000369082.jpg#0	Are there any any tupperwares on top of the stove ? no
+COCO_val2014_000000238029.jpg#0	Is this a healthy dinner ? no
+COCO_val2014_000000238029.jpg#1	Is this a dessert ? no
+COCO_val2014_000000107084.jpg#0	Is this a kitchen room ? yes
+COCO_val2014_000000107084.jpg#0	Could this be kitchen room ? yes
+COCO_val2014_000000156324.jpg#1	Is this a reflection ? yes
+COCO_val2014_000000500389.jpg#0	Could this be wild animal ? no
+COCO_val2014_000000500423.jpg#0	Is this a high speed train ? yes
+COCO_val2014_000000369393.jpg#1	Is this lady younger than 75 ? yes
+COCO_val2014_000000500468.jpg#0	Is this a chicken farm ? yes
+COCO_val2014_000000500492.jpg#0	Could this be alcohol beverage ? yes
+COCO_val2014_000000369461.jpg#0	Is this guy attending a baseball game ? no
+COCO_val2014_000000107375.jpg#0	Could this be poodle ? no
+COCO_val2014_000000238488.jpg#0	Is this a musical concert ? no
+COCO_val2014_000000500703.jpg#0	Could this be rural area ? no
+COCO_val2014_000000107558.jpg#0	Could this be skate park ? yes
+COCO_val2014_000000500878.jpg#0	Is this a vegetarian pizza ? no
+COCO_val2014_000000278550.jpg#0	Could this be 10 speed ? yes
+COCO_val2014_000000369840.jpg#1	Are there any any cars parked on the street ? no
+COCO_val2014_000000107840.jpg#0	Could this be newer bus ? no
+COCO_val2014_000000501062.jpg#0	Could this be vegetarian dish ? yes
+COCO_val2014_000000501062.jpg#1	Could this be salad ? no
+COCO_val2014_000000501122.jpg#0	Is this gentleman ironing ? no
+COCO_val2014_000000238980.jpg#0	Are there any clouds in the sky ? yes
+COCO_val2014_000000370103.jpg#0	Are there any buildings with reflective material on them ? no
+COCO_val2014_000000501191.jpg#0	Are there any any magnets on the fridge ? yes
+COCO_val2014_000000370315.jpg#0	Is this man likely at a convention ? yes
+COCO_val2014_000000108208.jpg#1	Is this a salad ? no
+COCO_val2014_000000108208.jpg#1	Could this be salad ? no
+COCO_val2014_000000108243.jpg#0	Are there any clouds in the sky ? yes
+COCO_val2014_000000370444.jpg#0	Could this be typical toilet you would see in America ? no
+COCO_val2014_000000117095.jpg#0	Could this be bear on the right ? yes
+COCO_val2014_000000108904.jpg#1	Are there any tomato slices ? yes
+COCO_val2014_000000240287.jpg#0	Is this guy in water ? no
+COCO_val2014_000000502456.jpg#0	Could this be farm ? no
+COCO_val2014_000000240379.jpg#2	Could this be motorcycle group ? no
+COCO_val2014_000000371588.jpg#0	Is this a commercial aircraft ? no
+COCO_val2014_000000556765.jpg#0	Is this a baby elephant ? yes
+COCO_val2014_000000240565.jpg#0	Could this be women's bathroom ? no
+COCO_val2014_000000502818.jpg#0	Is this man surfing ? no
+COCO_val2014_000000371829.jpg#0	Is this guy downhill skiing ? no
+COCO_val2014_000000371869.jpg#0	Are there any any one way streets ? yes
+COCO_val2014_000000502998.jpg#0	Is this person currently a skier ? yes
+COCO_val2014_000000503137.jpg#0	Could this be healthy meal ? yes
+COCO_val2014_000000372070.jpg#0	Is this a steam powered train ? yes
+COCO_val2014_000000110026.jpg#0	Could this be car holding all the items ? yes
+COCO_val2014_000000138975.jpg#0	Could this be rescue mission ? no
+COCO_val2014_000000241525.jpg#0	Are there any water glasses ? no
+COCO_val2014_000000503724.jpg#1	Could this be subway ? no
+COCO_val2014_000000503808.jpg#0	Is this guy riding downhill ? yes
+COCO_val2014_000000241728.jpg#0	Could this be black and white photo ? no
+COCO_val2014_000000241837.jpg#0	Could this be park ? yes
+COCO_val2014_000000373089.jpg#0	Could this be small town ? no
+COCO_val2014_000000346175.jpg#0	Is this man worshiping the local mountains ? no
+COCO_val2014_000000373170.jpg#0	Could this be hospital room ? no
+COCO_val2014_000000504248.jpg#0	Could this be place you'd go to pee ? yes
+COCO_val2014_000000111036.jpg#2	Could this be range microwave ? no
+COCO_val2014_000000062198.jpg#0	Is this man wearing a wetsuit ? yes
+COCO_val2014_000000373193.jpg#0	Is this a working bathroom ? no
+COCO_val2014_000000504287.jpg#0	Could this be professional game ? no
+COCO_val2014_000000504297.jpg#0	Is this a hot dog ? yes
+COCO_val2014_000000504297.jpg#0	Could this be hot dog ? yes
+COCO_val2014_000000504297.jpg#1	Are there any paper napkins on the table ? no
+COCO_val2014_000000504304.jpg#0	Could this be tennis stadium ? no
+COCO_val2014_000000111099.jpg#0	Could this be black and white picture ? no
+COCO_val2014_000000373255.jpg#0	Are there any any horses in this pic ? yes
+COCO_val2014_000000564659.jpg#0	Is this a normal environment for broccoli ? no
+COCO_val2014_000000564659.jpg#0	Could this be normal environment for broccoli ? no
+COCO_val2014_000000242270.jpg#0	Is this a one-way street ? no
+COCO_val2014_000000242363.jpg#0	Could this be poor persons home ? no
+COCO_val2014_000000242365.jpg#1	Is this woman angry ? no
+COCO_val2014_000000111434.jpg#0	Could this be party of some sort ? yes
+COCO_val2014_000000373713.jpg#0	Is this a home office ? no
+COCO_val2014_000000504827.jpg#0	Is this a hotel bathroom ? no
+COCO_val2014_000000368154.jpg#0	Could this be one way street ? no
+COCO_val2014_000000368154.jpg#1	Is this a four way stop ? yes
+COCO_val2014_000000242940.jpg#0	Is this a traffic light ? no
+COCO_val2014_000000111878.jpg#0	Could this be big bowl ? no
+COCO_val2014_000000243158.jpg#0	Is this a hotel room ? no
+COCO_val2014_000000374241.jpg#0	Could this be park ? yes
+COCO_val2014_000000243171.jpg#0	Is this gentleman wearing a shirt ? no
+COCO_val2014_000000112110.jpg#2	Is this guy drunk ? no
+COCO_val2014_000000112110.jpg#3	Could this be professional model ? no
+COCO_val2014_000000243355.jpg#0	Is this a wild zebra ? no
+COCO_val2014_000000243867.jpg#0	Are there any any black vehicles ? no
+COCO_val2014_000000243891.jpg#0	Is this lady a bartender ? no
+COCO_val2014_000000244246.jpg#0	Are there any clouds in the sky ? no
+COCO_val2014_000000375415.jpg#0	Are there any any grapes ? no
+COCO_val2014_000000113333.jpg#0	Are there any any people in this picture ? yes
+COCO_val2014_000000113333.jpg#1	Could this be bike parking zone ? no
+COCO_val2014_000000113413.jpg#1	Could this be boat ? yes
+COCO_val2014_000000244539.jpg#0	Could this be vintage motorcycle ? yes
+COCO_val2014_000000244633.jpg#0	Could this be smartphone ? no
+COCO_val2014_000000113570.jpg#0	Could this be passenger train ? no
+COCO_val2014_000000113588.jpg#0	Is this guy looking at the computer screen ? yes
+COCO_val2014_000000412184.jpg#1	Is this gentleman trying to get gas ? no
+COCO_val2014_000000113867.jpg#0	Could this be church ? yes
+COCO_val2014_000000507135.jpg#0	Are there any any cars ? no
+COCO_val2014_000000507154.jpg#1	Could this be classroom ? no
+COCO_val2014_000000376123.jpg#0	Is this a pro game ? yes
+COCO_val2014_000000245145.jpg#0	Is this a rainforest ? no
+COCO_val2014_000000507301.jpg#0	Is this a cat ? yes
+COCO_val2014_000000507313.jpg#0	Is this a park ? yes
+COCO_val2014_000000507313.jpg#0	Could this be park ? yes
+COCO_val2014_000000114164.jpg#0	Could this be dirt road ? yes
+COCO_val2014_000000215644.jpg#0	Are there any paper towels ? no
+COCO_val2014_000000376368.jpg#0	Are there any any people in sight ? yes
+COCO_val2014_000000114335.jpg#0	Could this be vegan pizza ? no
+COCO_val2014_000000245453.jpg#0	Is this guy having a hard time with the kite ? no
+COCO_val2014_000000507633.jpg#0	Is this person wearing goggles ? no
+COCO_val2014_000000245513.jpg#0	Are there any people in the background ? no
+COCO_val2014_000000507739.jpg#0	Could this be pelican ? yes
+COCO_val2014_000000477846.jpg#0	Is this a cloudy day ? yes
+COCO_val2014_000000180580.jpg#0	Is this a vegetarian dish ? yes
+COCO_val2014_000000376937.jpg#0	Is this a black and white photo ? yes
+COCO_val2014_000000377097.jpg#0	Is this man in uniform ? no
+COCO_val2014_000000377183.jpg#1	Are there any pairs of eyeglasses visible on this desk ? no
+COCO_val2014_000000412399.jpg#0	Is this person wet ? yes
+COCO_val2014_000000377385.jpg#0	Is this man going up to bat ? no
+COCO_val2014_000000377486.jpg#0	Could this be wild horse ? no
+COCO_val2014_000000377486.jpg#1	Could this be wooded area ? no
+COCO_val2014_000000246435.jpg#0	Is this a one way street ? yes
+COCO_val2014_000000246612.jpg#0	Is this man happy ? no
+COCO_val2014_000000377949.jpg#0	Is this guy wearing gloves ? yes
+COCO_val2014_000000115927.jpg#0	Is this a intersection ? yes
+COCO_val2014_000000509223.jpg#0	Is this person riding a snowboard ? no
+COCO_val2014_000000247141.jpg#0	Is this a gym ? no
+COCO_val2014_000000247216.jpg#0	Is this a professional game ? no
+COCO_val2014_000000509460.jpg#0	Are there any joggers in the picture ? yes
+COCO_val2014_000000116354.jpg#0	Is this a cloudy day ? no
+COCO_val2014_000000116354.jpg#0	Could this be cloudy day ? no
+COCO_val2014_000000116413.jpg#0	Could this be gourmet pizza ? yes
+COCO_val2014_000000116424.jpg#0	Is this a sink ? no
+COCO_val2014_000000325239.jpg#0	Could this be galley style kitchen ? yes
+COCO_val2014_000000247587.jpg#0	Is this gentleman a hipster ? no
+COCO_val2014_000000509826.jpg#1	Could this be beach ? no
+COCO_val2014_000000116881.jpg#0	Could this be woman ? yes
+COCO_val2014_000000379048.jpg#0	Is this a museum display ? yes
+COCO_val2014_000000510122.jpg#0	Is this a horse show ? no
+COCO_val2014_000000379070.jpg#0	Are there any people on the street ? no
+COCO_val2014_000000379085.jpg#0	Could this be full boat ? no
+COCO_val2014_000000248051.jpg#1	Are there any cars coming ? no
+COCO_val2014_000000379144.jpg#0	Could this be transporter ? yes
+COCO_val2014_000000379376.jpg#0	Could this be farm ? yes
+COCO_val2014_000000325374.jpg#0	Is this a well manicured lawn ? no
+COCO_val2014_000000510559.jpg#0	Are there any any waves ? yes
+COCO_val2014_000000379800.jpg#0	Could this be truck ? no
+COCO_val2014_000000565761.jpg#1	Is this a room in a church ? no
+COCO_val2014_000000511136.jpg#0	Is this a proper place for an umbrella ? no
+COCO_val2014_000000478407.jpg#0	Is this gentleman eating at home ? yes
+COCO_val2014_000000281827.jpg#0	Could this be factory ? no
+COCO_val2014_000000380244.jpg#1	Is this a kitchen ? no
+COCO_val2014_000000249277.jpg#0	Could this be wooden bridge ? no
+COCO_val2014_000000249371.jpg#0	Could this be beach ? no
+COCO_val2014_000000380459.jpg#0	Is this person wearing a t shirt ? no
+COCO_val2014_000000380459.jpg#0	Is this guy wearing a t shirt ? no
+COCO_val2014_000000511599.jpg#0	Is this a prosperous village ? no
+COCO_val2014_000000380552.jpg#0	Are there any clouds in the sky ? no
+COCO_val2014_000000249482.jpg#0	Is this a commercial plane ? yes
+COCO_val2014_000000118542.jpg#0	Is this lady dressed up to go out ? no
+COCO_val2014_000000118564.jpg#1	Is this gentleman flying ? no
+COCO_val2014_000000118564.jpg#3	Are there any clouds ? yes
+COCO_val2014_000000118584.jpg#0	Are there any any lions in this photo ? no
+COCO_val2014_000000381021.jpg#0	Could this be grown-up woman on the poster ? yes
+COCO_val2014_000000318204.jpg#1	Is this a city scene ? no
+COCO_val2014_000000381106.jpg#0	Could this be beach scene ? yes
+COCO_val2014_000000216457.jpg#0	Could this be traffic light ? yes
+COCO_val2014_000000056344.jpg#0	Is this a war scene ? no
+COCO_val2014_000000381658.jpg#0	Could this be subway passenger train ? no
+COCO_val2014_000000512760.jpg#0	Could this be hair salon area ? no
+COCO_val2014_000000250758.jpg#0	Are there any trees in the picture ? yes
+COCO_val2014_000000250912.jpg#0	Could this be beach ? yes
+COCO_val2014_000000513060.jpg#0	Are there any paper towels on the person's lap ? yes
+COCO_val2014_000000250917.jpg#0	Is this person posing for the camera ? no
+COCO_val2014_000000513064.jpg#0	Could this be shallow sink ? yes
+COCO_val2014_000000382122.jpg#0	Could this be place of worship ? yes
+COCO_val2014_000000382191.jpg#0	Could this be bathroom ? yes
+COCO_val2014_000000382307.jpg#0	Is this gentleman living hear ? yes
+COCO_val2014_000000566173.jpg#0	Is this person an adult ? no
+COCO_val2014_000000120248.jpg#0	Is this a Longboat ? yes
+COCO_val2014_000000120282.jpg#0	Are there any any plants visible ? no
+COCO_val2014_000000513555.jpg#0	Are there any any sailboats ? yes
+COCO_val2014_000000178592.jpg#0	Are there any any birds ? no
+COCO_val2014_000000382734.jpg#0	Is this a functional room ? no
+COCO_val2014_000000514180.jpg#0	Is this a pizza place ? yes
+COCO_val2014_000000252444.jpg#0	Is this man skating over the steps ? no
+COCO_val2014_000000252444.jpg#0	Is this gentleman skating over the steps ? no
+COCO_val2014_000000260547.jpg#0	Is this person wearing glasses ? no
+COCO_val2014_000000260547.jpg#0	Is this guy wearing glasses ? no
+COCO_val2014_000000383706.jpg#0	Is this a healthy dish ? no
+COCO_val2014_000000252696.jpg#0	Are there any any shirts ? yes
+COCO_val2014_000000121663.jpg#0	Could this be sunny day ? no
+COCO_val2014_000000253002.jpg#0	Is this a bus ? yes
+COCO_val2014_000000515176.jpg#0	Is this a laundry machine ? no
+COCO_val2014_000000515303.jpg#0	Is this a two horsepower vehicle ? yes
+COCO_val2014_000000384308.jpg#0	Is this a live animal ? yes
+COCO_val2014_000000515403.jpg#0	Could this be scene from the black stallion ? yes
+COCO_val2014_000000384350.jpg#0	Could this be small plane ? no
+COCO_val2014_000000253341.jpg#0	Could this be good place to skateboard ? yes
+COCO_val2014_000000384461.jpg#0	Could this be new picture ? no
+COCO_val2014_000000122413.jpg#0	Is this man performing a safe activity ? yes
+COCO_val2014_000000515660.jpg#0	Is this a kitchen ? no
+COCO_val2014_000000253557.jpg#0	Is this a Nazi owned plane ? no
+COCO_val2014_000000122549.jpg#3	Could this be wedding ? no
+COCO_val2014_000000384794.jpg#0	Could this be country road ? no
+COCO_val2014_000000122678.jpg#0	Is this woman painting ? no
+COCO_val2014_000000515904.jpg#0	Is this a full bathroom ? yes
+COCO_val2014_000000384849.jpg#0	Is this a full size van ? yes
+COCO_val2014_000000515962.jpg#0	Are there any any baby giraffes in this picture ? no
+COCO_val2014_000000384901.jpg#0	Could this be US bathroom ? yes
+COCO_val2014_000000385005.jpg#0	Is this a museum ? no
+COCO_val2014_000000516173.jpg#0	Is this woman a professional water surfer ? yes
+COCO_val2014_000000385115.jpg#0	Could this be countryside ? yes
+COCO_val2014_000000385174.jpg#0	Is this a healthy meal ? yes
+COCO_val2014_000000123125.jpg#0	Is this a newspaper on the table ? yes
+COCO_val2014_000000254277.jpg#0	Is this a flower shop ? yes
+COCO_val2014_000000123213.jpg#0	Is this a pro game ? yes
+COCO_val2014_000000123360.jpg#0	Is this a costume party ? no
+COCO_val2014_000000254479.jpg#0	Could this be grizzly bear ? no
+COCO_val2014_000000385633.jpg#1	Could this be studio ? yes
+COCO_val2014_000000516708.jpg#0	Could this be wide angle view ? no
+COCO_val2014_000000385796.jpg#1	Could this be shopping center ? no
+COCO_val2014_000000254919.jpg#1	Is this a real train ? yes
+COCO_val2014_000000064342.jpg#0	Is this lady old ? no
+COCO_val2014_000000386277.jpg#0	Could this be vegetable ? no
+COCO_val2014_000000255448.jpg#1	Are there any forks ? no
+COCO_val2014_000000255448.jpg#1	Are there any any forks ? no
+COCO_val2014_000000255479.jpg#0	Could this be colorful surfboard ? no
+COCO_val2014_000000386584.jpg#0	Could this be new toilet ? yes
+COCO_val2014_000000255573.jpg#0	Is this a wireless keyboard ? no
+COCO_val2014_000000255573.jpg#0	Could this be wireless keyboard ? no
+COCO_val2014_000000255582.jpg#1	Is this a store ? yes
+COCO_val2014_000000255592.jpg#0	Could this be school class ? yes
+COCO_val2014_000000124621.jpg#0	Is this a post office ? no
+COCO_val2014_000000386786.jpg#0	Could this be public restroom ? yes
+COCO_val2014_000000255718.jpg#0	Could this be new fire hydrant ? no
+COCO_val2014_000000282940.jpg#1	Could this be passenger train ? no
+COCO_val2014_000000387042.jpg#0	Is this a professional game ? yes
+COCO_val2014_000000125051.jpg#1	Could this be real picture ? yes
+COCO_val2014_000000125085.jpg#0	Could this be major league team ? no
+COCO_val2014_000000435910.jpg#0	Are there any any waves ? yes
+COCO_val2014_000000256250.jpg#0	Is this a park ? no
+COCO_val2014_000000575921.jpg#2	Is this man happy ? no
+COCO_val2014_000000256367.jpg#0	Could this be passenger train ? yes
+COCO_val2014_000000518530.jpg#0	Is this a sunny day ? no
+COCO_val2014_000000256403.jpg#0	Is this a jail cell ? no
+COCO_val2014_000000125815.jpg#0	Could this be high speed train ? no
+COCO_val2014_000000256940.jpg#0	Is this person in motion ? no
+COCO_val2014_000000388026.jpg#0	Are there any any pedestrians in the street ? no
+COCO_val2014_000000256983.jpg#0	Could this be baseball event ? yes
+COCO_val2014_000000388085.jpg#2	Could this be busy time of day ? yes
+COCO_val2014_000000257076.jpg#0	Is this man wearing glasses ? yes
+COCO_val2014_000000545289.jpg#0	Could this be salad ? no
+COCO_val2014_000000388212.jpg#0	Could this be giraffe ? yes
+COCO_val2014_000000257169.jpg#0	Is this guy holding a plunger ? no
+COCO_val2014_000000257336.jpg#0	Are there any any ready dishes ? yes
+COCO_val2014_000000257370.jpg#0	Is this a video game conference ? no
+COCO_val2014_000000126340.jpg#0	Is this a selfie ? no
+COCO_val2014_000000126340.jpg#0	Could this be selfie ? no
+COCO_val2014_000000388528.jpg#0	Could this be common shaped toilet seat ? no
+COCO_val2014_000000519784.jpg#0	Are there any any motorbikes on the street ? yes
+COCO_val2014_000000519801.jpg#0	Is this a freight train ? yes
+COCO_val2014_000000257853.jpg#0	Is this a boy's room ? no
+COCO_val2014_000000389004.jpg#0	Could this be fancy meal ? no
+COCO_val2014_000000389168.jpg#0	Is this a restaurant ? no
+COCO_val2014_000000127135.jpg#0	Is this a cat ? no
+COCO_val2014_000000258266.jpg#0	Could this be good model to buy for a bathroom ? no
+COCO_val2014_000000261504.jpg#0	Is this a hotel ? yes
+COCO_val2014_000000520503.jpg#0	Are there any street lights ? yes
+COCO_val2014_000000170190.jpg#0	Are there any any white lines on the road ? yes
+COCO_val2014_000000389503.jpg#0	Could this be pond ? no
+COCO_val2014_000000127455.jpg#0	Is this a residential area ? yes
+COCO_val2014_000000127455.jpg#0	Could this be residential area ? yes
+COCO_val2014_000000520683.jpg#0	Is this a gothic building ? no
+COCO_val2014_000000127477.jpg#1	Is this a short haired cat ? no
+COCO_val2014_000000389699.jpg#0	Is this a park ? yes
+COCO_val2014_000000127576.jpg#0	Could this be statue ? yes
+COCO_val2014_000000389869.jpg#0	Are there any any birds in the water ? yes
+COCO_val2014_000000108674.jpg#0	Is this a good place to sleep ? yes
+COCO_val2014_000000390147.jpg#0	Is this a dangerous activity ? no
+COCO_val2014_000000128014.jpg#0	Is this a hotel ? no
+COCO_val2014_000000130566.jpg#0	Could this be passenger train ? no
+COCO_val2014_000000128110.jpg#0	Are there any any white lines on the road ? no
+COCO_val2014_000000259421.jpg#1	Could this be Boeing 737 ? yes
+COCO_val2014_000000390627.jpg#0	Is this a suitcase ? no
+COCO_val2014_000000390760.jpg#0	Is this person above the Treeline ? no
+COCO_val2014_000000521956.jpg#0	Is this gentleman serving the ball ? yes
+COCO_val2014_000000522163.jpg#0	Could this be tongue depressor ? no
+COCO_val2014_000000522198.jpg#0	Could this be dangerous sport ? yes
+COCO_val2014_000000391140.jpg#0	Is this gentleman wearing a tie ? no
+COCO_val2014_000000260105.jpg#1	Is this a high calorie meal ? yes
+COCO_val2014_000000522262.jpg#0	Is this a park ? yes
+COCO_val2014_000000260141.jpg#0	Could this be marina ? yes
+COCO_val2014_000000391255.jpg#0	Are there any drinks on the table ? no
+COCO_val2014_000000391255.jpg#1	Is this a shop ? no
+COCO_val2014_000000522425.jpg#1	Is this lady brushing her teeth ? yes
+COCO_val2014_000000522446.jpg#0	Is this man working ? no
+COCO_val2014_000000391463.jpg#0	Is this a sandy beach ? yes
+COCO_val2014_000000522613.jpg#0	Is this a winter scene ? no
+COCO_val2014_000000522613.jpg#0	Could this be winter scene ? no
+COCO_val2014_000000260470.jpg#0	Is this a fancy restaurant ? no
+COCO_val2014_000000391560.jpg#0	Could this be modern train ? no
+COCO_val2014_000000391560.jpg#1	Is this a cargo train ? yes
+COCO_val2014_000000260525.jpg#0	Is this man probably married ? no
+COCO_val2014_000000391794.jpg#0	Are there any wires on the desk ? yes
+COCO_val2014_000000260774.jpg#0	Is this a color picture ? yes
+COCO_val2014_000000109012.jpg#0	Could this be densely urban area ? yes
+COCO_val2014_000000523096.jpg#0	Are there any plants in this room ? no
+COCO_val2014_000000523100.jpg#0	Are there any fruits in this food ? yes
+COCO_val2014_000000523100.jpg#1	Could this be vegan meal ? yes
+COCO_val2014_000000260974.jpg#0	Could this be well groomed garden ? no
+COCO_val2014_000000392048.jpg#0	Could this be healthy breakfast ? no
+COCO_val2014_000000480407.jpg#1	Is this a healthy meal ? yes
+COCO_val2014_000000523175.jpg#0	Is this a solid meal ? no
+COCO_val2014_000000480416.jpg#0	Could this be European city ? no
+COCO_val2014_000000261097.jpg#0	Is this man about to catch something ? no
+COCO_val2014_000000130062.jpg#0	Is this a river ? yes
+COCO_val2014_000000261155.jpg#1	Could this be zoo ? no
+COCO_val2014_000000392229.jpg#0	Is this a quesadilla ? yes
+COCO_val2014_000000261318.jpg#0	Is this person waiting ? yes
+COCO_val2014_000000523529.jpg#0	Is this a normal place for a bear to be found ? yes
+COCO_val2014_000000261388.jpg#0	Could this be one way street ? yes
+COCO_val2014_000000502317.jpg#0	Are there any cars parked on the street ? yes
+COCO_val2014_000000392481.jpg#0	Is this a military aircraft ? yes
+COCO_val2014_000000261471.jpg#0	Could this be one way street ? yes
+COCO_val2014_000000261535.jpg#0	Could this be modest young woman ? no
+COCO_val2014_000000130508.jpg#1	Could this be city setting ? no
+COCO_val2014_000000130619.jpg#0	Is this gentleman sitting near  giraffe ? yes
+COCO_val2014_000000523869.jpg#0	Is this a balanced meal ? yes
+COCO_val2014_000000392892.jpg#0	Could this be happy home ? yes
+COCO_val2014_000000392892.jpg#1	Could this be bright kitchen ? yes
+COCO_val2014_000000392905.jpg#0	Is this a bear ? no
+COCO_val2014_000000392915.jpg#1	Are there any window treatments ? yes
+COCO_val2014_000000392915.jpg#2	Is this a one room apartment ? no
+COCO_val2014_000000392915.jpg#3	Could this be tidy kitchen ? yes
+COCO_val2014_000000261888.jpg#0	Is this a packed road ? no
+COCO_val2014_000000536831.jpg#0	Is this person smiling ? yes
+COCO_val2014_000000393093.jpg#0	Is this a black and white photo ? no
+COCO_val2014_000000524247.jpg#0	Could this be  color photograph ? yes
